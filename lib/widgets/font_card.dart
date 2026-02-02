@@ -14,7 +14,7 @@ class FontCard extends StatelessWidget {
     // We can extract the folder structure from the path
     final relativePath = font.path.replaceAll('Fonts/', '');
     final url = Uri.parse(
-      'https://github.com/phaylali/Tifinagh-Fonts/blob/main/Fonts/$relativePath',
+      'https://github.com/phaylali/Tifinagh-Fonts-Viewer/blob/main/Fonts/$relativePath',
     );
     if (!await launchUrl(url)) {
       throw Exception('Could not launch $url');

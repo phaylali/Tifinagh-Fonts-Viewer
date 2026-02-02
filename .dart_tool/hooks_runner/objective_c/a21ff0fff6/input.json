@@ -1,0 +1,26 @@
+{
+  "assets": {},
+  "config": {
+    "build_asset_types": [
+      "code_assets/code"
+    ],
+    "extensions": {
+      "code_assets": {
+        "c_compiler": {
+          "ar": "/usr/bin/llvm-ar",
+          "cc": "/usr/bin/clang",
+          "ld": "/usr/bin/ld.lld"
+        },
+        "link_mode_preference": "dynamic",
+        "target_architecture": "x64",
+        "target_os": "linux"
+      }
+    },
+    "linking_enabled": false
+  },
+  "out_dir_shared": "/home/phaylali/Documents/Apps/Tifinagh-Fonts-Viewer/.dart_tool/hooks_runner/shared/objective_c/build/",
+  "out_file": "/home/phaylali/Documents/Apps/Tifinagh-Fonts-Viewer/.dart_tool/hooks_runner/objective_c/a21ff0fff6/output.json",
+  "package_name": "objective_c",
+  "package_root": "/home/phaylali/.pub-cache/hosted/pub.dev/objective_c-9.2.5/",
+  "user_defines": {}
+}

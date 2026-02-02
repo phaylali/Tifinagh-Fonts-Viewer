@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/phaylali/Documents/Apps/Tifinagh-Fonts-Viewer/build/linux/x64/debug/cmake_install.cmake",
+		"/home/phaylali/Documents/Apps/Tifinagh-Fonts-Viewer/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/home/phaylali/Documents/Apps/Tifinagh-Fonts-Viewer/build/linux/x64/debug/runner/cmake_install.cmake",
+		"/home/phaylali/Documents/Apps/Tifinagh-Fonts-Viewer/build/linux/x64/debug/plugins/url_launcher_linux/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
