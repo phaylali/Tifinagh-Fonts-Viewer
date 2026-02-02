@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
 import 'package:tifinagh_fonts_viewer/core/providers.dart';
 import 'package:tifinagh_fonts_viewer/core/theme.dart';
 
@@ -45,7 +46,20 @@ class AppDrawer extends ConsumerWidget {
             leading: const Icon(Icons.info_outline, color: AppColors.gold),
             title: const Text('About', style: TextStyle(color: Colors.white)),
             onTap: () {
-              // TODO: Navigate to About page
+              context.push('/about');
+            },
+          ),
+          ListTile(
+            leading: const Icon(
+              Icons.privacy_tip_outlined,
+              color: AppColors.gold,
+            ),
+            title: const Text(
+              'Privacy Policy',
+              style: TextStyle(color: Colors.white),
+            ),
+            onTap: () {
+              context.push('/privacy');
             },
           ),
           const Spacer(),

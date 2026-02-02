@@ -22,6 +22,17 @@ class HomePage extends ConsumerWidget {
             context,
           ).textTheme.displayMedium?.copyWith(fontSize: 20),
         ),
+        flexibleSpace: Container(
+          alignment: Alignment.bottomCenter,
+          child: Container(
+            height: 1,
+            width: double.infinity,
+            margin: const EdgeInsets.symmetric(horizontal: 16),
+            decoration: const BoxDecoration(
+              gradient: AppColors.goldFadeGradient,
+            ),
+          ),
+        ),
       ),
       drawer: const AppDrawer(),
       body: Column(

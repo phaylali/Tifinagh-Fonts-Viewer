@@ -59,28 +59,21 @@ class FontCard extends StatelessWidget {
                 ],
               ),
               const SizedBox(height: 12),
+              Container(
+                height: 0.5,
+                width: double.infinity,
+                decoration: const BoxDecoration(
+                  gradient: AppColors.goldFadeGradient,
+                ),
+              ),
+              const SizedBox(height: 16),
               Center(
                 child: Text(
                   previewText,
                   style: TextStyle(
-                    fontFamily: font
-                        .family, // Uses the family name registered in pubspec.yaml
+                    fontFamily: font.family,
                     fontSize: 28,
                     color: Colors.white,
-                  ),
-                ),
-              ),
-              const SizedBox(height: 8),
-              Container(
-                height: 1,
-                width: double.infinity,
-                decoration: const BoxDecoration(
-                  gradient: LinearGradient(
-                    colors: [
-                      Colors.transparent,
-                      AppColors.gold,
-                      Colors.transparent,
-                    ],
                   ),
                 ),
               ),

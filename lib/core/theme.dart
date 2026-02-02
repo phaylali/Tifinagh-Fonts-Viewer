@@ -11,6 +11,12 @@ class AppColors {
   // Moon Mode (Modern Dark)
   static const Color moonBackground = Color(0xFF1E1E1E);
   static const Color moonSurface = Color(0xFF2A2A2A);
+
+  static const LinearGradient goldFadeGradient = LinearGradient(
+    colors: [Colors.transparent, gold, Colors.transparent],
+    begin: Alignment.centerLeft,
+    end: Alignment.centerRight,
+  );
 }
 
 class AppThemes {
