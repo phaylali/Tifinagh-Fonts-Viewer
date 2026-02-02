@@ -42,7 +42,7 @@ final previewTextProvider = NotifierProvider<PreviewTextNotifier, String>(() {
 
 class PreviewTextNotifier extends Notifier<String> {
   @override
-  String build() => 'ⵜⵉⴼⵉⵏⴰⵖ';
+  String build() => 'oⵎⵏⵉⵠⴻⵔⵙⵉⴼⵢ';
 
   void update(String value) => state = value;
 }

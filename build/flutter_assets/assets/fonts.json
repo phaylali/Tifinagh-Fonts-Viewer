@@ -1,2057 +1,2509 @@
 [
   {
-    "name": "Adlis Regular2",
-    "path": "Fonts/Adlis-Regular2.otf",
-    "family": "AdlisRegular2"
-  },
-  {
-    "name": "AfusDegWfus Regular",
-    "path": "Fonts/AfusDegWfus-Regular.otf",
-    "family": "AfusDegWfusRegular"
-  },
-  {
-    "name": "AfusDegWfus1 Regular",
-    "path": "Fonts/AfusDegWfus1-Regular.otf",
-    "family": "AfusDegWfus1Regular"
-  },
-  {
-    "name": "AfusDegWfus2 Regular",
-    "path": "Fonts/AfusDegWfus2-Regular.otf",
-    "family": "AfusDegWfus2Regular"
-  },
-  {
-    "name": "agrawlan",
-    "path": "Fonts/agrawlan.ttf",
-    "family": "agrawlan"
-  },
-  {
-    "name": "AlMotLaQ V2.5",
-    "path": "Fonts/AlMotLaQ-V2.5.ttf",
-    "family": "AlMotLaQV2.5"
-  },
-  {
-    "name": "AmaikhaTifinagh Regular",
-    "path": "Fonts/AmaikhaTifinagh-Regular.otf",
-    "family": "AmaikhaTifinaghRegular"
-  },
-  {
-    "name": "AmaikhaTifinagh Regular",
-    "path": "Fonts/AmaikhaTifinagh-Regular.ttf",
-    "family": "AmaikhaTifinaghRegular"
-  },
-  {
     "name": "AMDAL Regular",
-    "path": "Fonts/AMDAL-Regular.otf",
-    "family": "AMDALRegular"
-  },
-  {
-    "name": "AMDAL Regular",
-    "path": "Fonts/AMDAL-Regular.ttf",
-    "family": "AMDALRegular"
-  },
-  {
-    "name": "Ammouri Tifinagh Outline",
-    "path": "Fonts/Ammouri Tifinagh Outline.ttf",
-    "family": "AmmouriTifinaghOutline"
-  },
-  {
-    "name": "Ammouri Tifinagh Regular",
-    "path": "Fonts/Ammouri Tifinagh Regular.ttf",
-    "family": "AmmouriTifinaghRegular"
-  },
-  {
-    "name": "Ammouri Tifinagh Shadow",
-    "path": "Fonts/Ammouri Tifinagh Shadow.ttf",
-    "family": "AmmouriTifinaghShadow"
-  },
-  {
-    "name": "anaviz",
-    "path": "Fonts/anaviz.ttf",
-    "family": "anaviz"
-  },
-  {
-    "name": "anbraz",
-    "path": "Fonts/anbraz.ttf",
-    "family": "anbraz"
-  },
-  {
-    "name": "Ayt Lmuddn Mrym",
-    "path": "Fonts/Ayt Lmuddn Mrym.ttf",
-    "family": "AytLmuddnMrym"
-  },
-  {
-    "name": "cactus",
-    "path": "Fonts/cactus.ttf",
-    "family": "cactus"
-  },
-  {
-    "name": "caligraphie",
-    "path": "Fonts/caligraphie.ttf",
-    "family": "caligraphie"
-  },
-  {
-    "name": "Cartoon1471Extended x3oyq",
-    "path": "Fonts/Cartoon1471Extended-x3oyq.ttf",
-    "family": "Cartoon1471Extendedx3oyq"
-  },
-  {
-    "name": "CODE2000",
-    "path": "Fonts/CODE2000.TTF",
-    "family": "CODE2000"
-  },
-  {
-    "name": "Code2000 rdLO",
-    "path": "Fonts/Code2000-rdLO.ttf",
-    "family": "Code2000rdLO"
-  },
-  {
-    "name": "DejaVuSans",
-    "path": "Fonts/DejaVuSans.ttf",
-    "family": "DejaVuSans"
-  },
-  {
-    "name": "DejavuSans MdPB",
-    "path": "Fonts/DejavuSans-MdPB.ttf",
-    "family": "DejavuSansMdPB"
-  },
-  {
-    "name": "DejavuSansBold KEmZ",
-    "path": "Fonts/DejavuSansBold-KEmZ.ttf",
-    "family": "DejavuSansBoldKEmZ"
-  },
-  {
-    "name": "DejavuSansBoldOblique 23a3",
-    "path": "Fonts/DejavuSansBoldOblique-23a3.ttf",
-    "family": "DejavuSansBoldOblique23a3"
-  },
-  {
-    "name": "DejavuSansCondensed vdzy",
-    "path": "Fonts/DejavuSansCondensed-vdzy.ttf",
-    "family": "DejavuSansCondensedvdzy"
-  },
-  {
-    "name": "DejavuSansCondensedBold wdzP",
-    "path": "Fonts/DejavuSansCondensedBold-wdzP.ttf",
-    "family": "DejavuSansCondensedBoldwdzP"
-  },
-  {
-    "name": "DejavuSansCondensedBoldOblique 7Xxw",
-    "path": "Fonts/DejavuSansCondensedBoldOblique-7Xxw.ttf",
-    "family": "DejavuSansCondensedBoldOblique7Xxw"
-  },
-  {
-    "name": "DejavuSansCondensedOblique mVzj",
-    "path": "Fonts/DejavuSansCondensedOblique-mVzj.ttf",
-    "family": "DejavuSansCondensedObliquemVzj"
-  },
-  {
-    "name": "DejavuSansOblique dvzg",
-    "path": "Fonts/DejavuSansOblique-dvzg.ttf",
-    "family": "DejavuSansObliquedvzg"
-  },
-  {
-    "name": "fedratifinagh",
-    "path": "Fonts/fedratifinagh.otf",
-    "family": "fedratifinagh"
-  },
-  {
-    "name": "fedratifinagh",
-    "path": "Fonts/fedratifinagh.ttf",
-    "family": "fedratifinagh"
-  },
-  {
-    "name": "FedraTifinagh2 Regular",
-    "path": "Fonts/FedraTifinagh2-Regular.otf",
-    "family": "FedraTifinagh2Regular"
-  },
-  {
-    "name": "ferforge",
-    "path": "Fonts/ferforge.ttf",
-    "family": "ferforge"
-  },
-  {
-    "name": "FreeSans 1Zge",
-    "path": "Fonts/FreeSans-1Zge.otf",
-    "family": "FreeSans1Zge"
-  },
-  {
-    "name": "FreeSans LrmZ",
-    "path": "Fonts/FreeSans-LrmZ.ttf",
-    "family": "FreeSansLrmZ"
-  },
-  {
-    "name": "FreeSansBold Rdmo",
-    "path": "Fonts/FreeSansBold-Rdmo.otf",
-    "family": "FreeSansBoldRdmo"
-  },
-  {
-    "name": "FreeSansBold Xgdd",
-    "path": "Fonts/FreeSansBold-Xgdd.ttf",
-    "family": "FreeSansBoldXgdd"
-  },
-  {
-    "name": "FreeSansBoldOblique BYJ3",
-    "path": "Fonts/FreeSansBoldOblique-BYJ3.otf",
-    "family": "FreeSansBoldObliqueBYJ3"
-  },
-  {
-    "name": "FreeSansBoldOblique g9mR",
-    "path": "Fonts/FreeSansBoldOblique-g9mR.ttf",
-    "family": "FreeSansBoldObliqueg9mR"
-  },
-  {
-    "name": "FreeSansOblique 8j92",
-    "path": "Fonts/FreeSansOblique-8j92.otf",
-    "family": "FreeSansOblique8j92"
-  },
-  {
-    "name": "FreeSansOblique ol30",
-    "path": "Fonts/FreeSansOblique-ol30.ttf",
-    "family": "FreeSansObliqueol30"
-  },
-  {
-    "name": "FsSongarak1Regular Vea0",
-    "path": "Fonts/FsSongarak1Regular-Vea0.ttf",
-    "family": "FsSongarak1RegularVea0"
-  },
-  {
-    "name": "goute",
-    "path": "Fonts/goute.ttf",
-    "family": "goute"
-  },
-  {
-    "name": "Gutik Regular",
-    "path": "Fonts/Gutik-Regular.ttf",
-    "family": "GutikRegular"
-  },
-  {
-    "name": "inknign",
-    "path": "Fonts/inknign.ttf",
-    "family": "inknign"
-  },
-  {
-    "name": "izriri",
-    "path": "Fonts/izriri.ttf",
-    "family": "izriri"
-  },
-  {
-    "name": "Kigelia Regular",
-    "path": "Fonts/Kigelia_Regular.ttf",
-    "family": "KigeliaRegular"
-  },
-  {
-    "name": "Kigelia Regular",
-    "path": "Fonts/Kigelia-Regular.otf",
-    "family": "KigeliaRegular"
-  },
-  {
-    "name": "LaContrastev0.1 Horizontale",
-    "path": "Fonts/LaContrastev0.1-Horizontale.otf",
-    "family": "LaContrastev0.1Horizontale"
-  },
-  {
-    "name": "NotoSansTifinagh Regular",
-    "path": "Fonts/NotoSansTifinagh_Regular.ttf",
-    "family": "NotoSansTifinaghRegular"
-  },
-  {
-    "name": "NotoSansTifinagh Regular",
-    "path": "Fonts/NotoSansTifinagh-Regular.ttf",
-    "family": "NotoSansTifinaghRegular"
-  },
-  {
-    "name": "PressStart2P Regular",
-    "path": "Fonts/PressStart2P-Regular.otf",
-    "family": "PressStart2PRegular"
-  },
-  {
-    "name": "Quivira A8VL",
-    "path": "Fonts/Quivira-A8VL.ttf",
-    "family": "QuiviraA8VL"
-  },
-  {
-    "name": "SECNaskhArabic Bold",
-    "path": "Fonts/SECNaskhArabic-Bold.ttf",
-    "family": "SECNaskhArabicBold"
-  },
-  {
-    "name": "SECNaskhArabic Regular",
-    "path": "Fonts/SECNaskhArabic-Regular.ttf",
-    "family": "SECNaskhArabicRegular"
-  },
-  {
-    "name": "SECNaskhArabicUI Bold",
-    "path": "Fonts/SECNaskhArabicUI-Bold.ttf",
-    "family": "SECNaskhArabicUIBold"
-  },
-  {
-    "name": "SECNaskhArabicUI Regular",
-    "path": "Fonts/SECNaskhArabicUI-Regular.ttf",
-    "family": "SECNaskhArabicUIRegular"
-  },
-  {
-    "name": "T I UNICODE",
-    "path": "Fonts/T_I_UNICODE.ttf",
-    "family": "TIUNICODE"
-  },
-  {
-    "name": "Tabarawt Regular",
-    "path": "Fonts/Tabarawt-Regular.otf",
-    "family": "TabarawtRegular"
-  },
-  {
-    "name": "Tadlagt1 Regular",
-    "path": "Fonts/Tadlagt1-Regular.otf",
-    "family": "Tadlagt1Regular"
-  },
-  {
-    "name": "tahoma",
-    "path": "Fonts/tahoma.ttf",
-    "family": "tahoma"
-  },
-  {
-    "name": "tifi",
-    "path": "Fonts/tifi.ttf",
-    "family": "tifi"
-  },
-  {
-    "name": "Tifinagh Abudrar Light",
-    "path": "Fonts/Tifinagh Abudrar Light.ttf",
-    "family": "TifinaghAbudrarLight"
-  },
-  {
-    "name": "Tifinagh Abudrar Light web",
-    "path": "Fonts/Tifinagh Abudrar Light web.ttf",
-    "family": "TifinaghAbudrarLightweb"
-  },
-  {
-    "name": "Tifinagh Abudrar Normal",
-    "path": "Fonts/Tifinagh Abudrar Normal.ttf",
-    "family": "TifinaghAbudrarNormal"
-  },
-  {
-    "name": "tifinagh abudrar normal web",
-    "path": "Fonts/tifinagh abudrar normal web.ttf",
-    "family": "tifinaghabudrarnormalweb"
-  },
-  {
-    "name": "Tifinaghe Ircam Unicode",
-    "path": "Fonts/Tifinaghe-Ircam_Unicode.ttf",
-    "family": "TifinagheIrcamUnicode"
-  },
-  {
-    "name": "Tifinaghe IrcamUnicode Regular2",
-    "path": "Fonts/Tifinaghe-IrcamUnicode-Regular2.otf",
-    "family": "TifinagheIrcamUnicodeRegular2"
-  },
-  {
-    "name": "Tifinaghe TawaltAmawal",
-    "path": "Fonts/Tifinaghe-TawaltAmawal.otf",
-    "family": "TifinagheTawaltAmawal"
-  },
-  {
-    "name": "Tifinaghe TawaltAmawal",
-    "path": "Fonts/Tifinaghe-TawaltAmawal.ttf",
-    "family": "TifinagheTawaltAmawal"
-  },
-  {
-    "name": "Tifinaghe TawaltAmawalBold",
-    "path": "Fonts/Tifinaghe-TawaltAmawalBold.otf",
-    "family": "TifinagheTawaltAmawalBold"
-  },
-  {
-    "name": "Tifinaghe TawaltAmawalBold",
-    "path": "Fonts/Tifinaghe-TawaltAmawalBold.ttf",
-    "family": "TifinagheTawaltAmawalBold"
-  },
-  {
-    "name": "Tifinaghe TawaltUnicode",
-    "path": "Fonts/Tifinaghe-TawaltUnicode.otf",
-    "family": "TifinagheTawaltUnicode"
-  },
-  {
-    "name": "Tifinaghe TawaltUnicode",
-    "path": "Fonts/Tifinaghe-TawaltUnicode.ttf",
-    "family": "TifinagheTawaltUnicode"
-  },
-  {
-    "name": "TruetypewriterPolyglott mELa",
-    "path": "Fonts/TruetypewriterPolyglott-mELa.ttf",
-    "family": "TruetypewriterPolyglottmELa"
-  },
-  {
-    "name": "VideoGlau.sfd",
-    "path": "Fonts/VideoGlau.sfd.ttf",
-    "family": "VideoGlau.sfd"
-  },
-  {
-    "name": "VideoGlauBold.sfd",
-    "path": "Fonts/VideoGlauBold.sfd.ttf",
-    "family": "VideoGlauBold.sfd"
+    "family": "AMDALRegular",
+    "formats": {
+      "otf": "Fonts/AMDAL-Regular.otf",
+      "ttf": "Fonts/AMDAL-Regular.ttf"
+    }
   },
   {
     "name": "Adlis",
-    "path": "Fonts/IRCAM/Adlis.otf",
-    "family": "Adlis"
+    "family": "Adlis",
+    "formats": {
+      "otf": "Fonts/IRCAM/Adlis.otf"
+    }
+  },
+  {
+    "name": "Adlis Regular2",
+    "family": "AdlisRegular2",
+    "formats": {
+      "otf": "Fonts/Adlis-Regular2.otf"
+    }
   },
   {
     "name": "Afulki",
-    "path": "Fonts/IRCAM/Afulki.ttf",
-    "family": "Afulki"
+    "family": "Afulki",
+    "formats": {
+      "ttf": "Fonts/IRCAM/Afulki.ttf"
+    }
+  },
+  {
+    "name": "AfusDegWfus Regular",
+    "family": "AfusDegWfusRegular",
+    "formats": {
+      "otf": "Fonts/AfusDegWfus-Regular.otf"
+    }
+  },
+  {
+    "name": "AfusDegWfus1 Regular",
+    "family": "AfusDegWfus1Regular",
+    "formats": {
+      "otf": "Fonts/AfusDegWfus1-Regular.otf"
+    }
+  },
+  {
+    "name": "AfusDegWfus2 Regular",
+    "family": "AfusDegWfus2Regular",
+    "formats": {
+      "otf": "Fonts/AfusDegWfus2-Regular.otf"
+    }
   },
   {
     "name": "Agoug unicode",
-    "path": "Fonts/IRCAM/Agoug_unicode.ttf",
-    "family": "Agougunicode"
-  },
-  {
-    "name": "Asdar semibold",
-    "path": "Fonts/IRCAM/Asdar_semibold.otf",
-    "family": "Asdarsemibold"
-  },
-  {
-    "name": "Callircam Blk",
-    "path": "Fonts/IRCAM/Callircam-Blk.otf",
-    "family": "CallircamBlk"
-  },
-  {
-    "name": "Gutik Regular",
-    "path": "Fonts/IRCAM/Gutik-Regular.otf",
-    "family": "GutikRegular"
-  },
-  {
-    "name": "Gutik Regular",
-    "path": "Fonts/IRCAM/Gutik-Regular.ttf",
-    "family": "GutikRegular"
-  },
-  {
-    "name": "Multiple cursive scripts",
-    "path": "Fonts/IRCAM/Multiple_cursive_scripts.ttf",
-    "family": "Multiplecursivescripts"
-  },
-  {
-    "name": "TFNGH UNICODE 1 AGRAGHLAN",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-1-AGRAGHLAN.ttf",
-    "family": "TFNGHUNICODE1AGRAGHLAN"
-  },
-  {
-    "name": "TFNGH UNICODE 1 TIDRFI",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-1-TIDRFI.ttf",
-    "family": "TFNGHUNICODE1TIDRFI"
-  },
-  {
-    "name": "TFNGH UNICODE 1 TIDRFI bd",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-1-TIDRFI_bd.ttf",
-    "family": "TFNGHUNICODE1TIDRFIbd"
-  },
-  {
-    "name": "TFNGH UNICODE 2 ADLIS",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-2-ADLIS.ttf",
-    "family": "TFNGHUNICODE2ADLIS"
-  },
-  {
-    "name": "TFNGH UNICODE 2 ADLIS bd",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-2-ADLIS_bd.ttf",
-    "family": "TFNGHUNICODE2ADLISbd"
-  },
-  {
-    "name": "TFNGH UNICODE 2 TAGURI",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-2-TAGURI.ttf",
-    "family": "TFNGHUNICODE2TAGURI"
-  },
-  {
-    "name": "TFNGH UNICODE 2 TAGURI SIN",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-2-TAGURI_SIN.ttf",
-    "family": "TFNGHUNICODE2TAGURISIN"
-  },
-  {
-    "name": "TFNGH UNICODE 2 TAGURI SIN bdit",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-2-TAGURI_SIN_bdit.ttf",
-    "family": "TFNGHUNICODE2TAGURISINbdit"
-  },
-  {
-    "name": "TFNGH UNICODE 2 TAGURI bd",
-    "path": "Fonts/IRCAM/TFNGH-UNICODE-2-TAGURI_bd.ttf",
-    "family": "TFNGHUNICODE2TAGURIbd"
-  },
-  {
-    "name": "TIFINAGHE ABAQTICH",
-    "path": "Fonts/IRCAM/TIFINAGHE_ABAQTICH.OTF",
-    "family": "TIFINAGHEABAQTICH"
-  },
-  {
-    "name": "TIFINAGHE ABAQTICH",
-    "path": "Fonts/IRCAM/TIFINAGHE_ABAQTICH.ttf",
-    "family": "TIFINAGHEABAQTICH"
-  },
-  {
-    "name": "TIFINAGHE AFRAG",
-    "path": "Fonts/IRCAM/TIFINAGHE_AFRAG.OTF",
-    "family": "TIFINAGHEAFRAG"
-  },
-  {
-    "name": "TIFINAGHE AFRAG",
-    "path": "Fonts/IRCAM/TIFINAGHE_AFRAG.ttf",
-    "family": "TIFINAGHEAFRAG"
-  },
-  {
-    "name": "TIFINAGHE AMAWAS",
-    "path": "Fonts/IRCAM/TIFINAGHE_AMAWAS.OTF",
-    "family": "TIFINAGHEAMAWAS"
-  },
-  {
-    "name": "TIFINAGHE AMAWAS",
-    "path": "Fonts/IRCAM/TIFINAGHE_AMAWAS.ttf",
-    "family": "TIFINAGHEAMAWAS"
-  },
-  {
-    "name": "TIFINAGHE AMNNAGH",
-    "path": "Fonts/IRCAM/TIFINAGHE_AMNNAGH.OTF",
-    "family": "TIFINAGHEAMNNAGH"
-  },
-  {
-    "name": "TIFINAGHE AMNNAGH",
-    "path": "Fonts/IRCAM/TIFINAGHE_AMNNAGH.ttf",
-    "family": "TIFINAGHEAMNNAGH"
-  },
-  {
-    "name": "TIFINAGHE AMTROY",
-    "path": "Fonts/IRCAM/TIFINAGHE_AMTROY.OTF",
-    "family": "TIFINAGHEAMTROY"
-  },
-  {
-    "name": "TIFINAGHE AMTROY",
-    "path": "Fonts/IRCAM/TIFINAGHE_AMTROY.ttf",
-    "family": "TIFINAGHEAMTROY"
-  },
-  {
-    "name": "TIFINAGHE AMURAR",
-    "path": "Fonts/IRCAM/TIFINAGHE_AMURAR.OTF",
-    "family": "TIFINAGHEAMURAR"
-  },
-  {
-    "name": "TIFINAGHE AMURAR",
-    "path": "Fonts/IRCAM/TIFINAGHE_AMURAR.ttf",
-    "family": "TIFINAGHEAMURAR"
-  },
-  {
-    "name": "TIFINAGHE ANAFAW",
-    "path": "Fonts/IRCAM/TIFINAGHE_ANAFAW.OTF",
-    "family": "TIFINAGHEANAFAW"
-  },
-  {
-    "name": "TIFINAGHE ANAFAW",
-    "path": "Fonts/IRCAM/TIFINAGHE_ANAFAW.ttf",
-    "family": "TIFINAGHEANAFAW"
-  },
-  {
-    "name": "TIFINAGHE ASFRGH",
-    "path": "Fonts/IRCAM/TIFINAGHE_ASFRGH.OTF",
-    "family": "TIFINAGHEASFRGH"
-  },
-  {
-    "name": "TIFINAGHE ASFRGH",
-    "path": "Fonts/IRCAM/TIFINAGHE_ASFRGH.ttf",
-    "family": "TIFINAGHEASFRGH"
-  },
-  {
-    "name": "TIFINAGHE AZURAR",
-    "path": "Fonts/IRCAM/TIFINAGHE_AZURAR.OTF",
-    "family": "TIFINAGHEAZURAR"
-  },
-  {
-    "name": "TIFINAGHE AZURAR",
-    "path": "Fonts/IRCAM/TIFINAGHE_AZURAR.ttf",
-    "family": "TIFINAGHEAZURAR"
-  },
-  {
-    "name": "TIFINAGHE AZURAR2",
-    "path": "Fonts/IRCAM/TIFINAGHE_AZURAR2.OTF",
-    "family": "TIFINAGHEAZURAR2"
-  },
-  {
-    "name": "TIFINAGHE AZURAR2",
-    "path": "Fonts/IRCAM/TIFINAGHE_AZURAR2.ttf",
-    "family": "TIFINAGHEAZURAR2"
-  },
-  {
-    "name": "TIFINAGHE TAMGHRA",
-    "path": "Fonts/IRCAM/TIFINAGHE_TAMGHRA.OTF",
-    "family": "TIFINAGHETAMGHRA"
-  },
-  {
-    "name": "TIFINAGHE TAMGHRA",
-    "path": "Fonts/IRCAM/TIFINAGHE_TAMGHRA.ttf",
-    "family": "TIFINAGHETAMGHRA"
-  },
-  {
-    "name": "T I UNICODE",
-    "path": "Fonts/IRCAM/T_I_UNICODE.ttf",
-    "family": "TIUNICODE"
-  },
-  {
-    "name": "Tabarawt Regular",
-    "path": "Fonts/IRCAM/Tabarawt-Regular.otf",
-    "family": "TabarawtRegular"
-  },
-  {
-    "name": "Tabarawt Regular",
-    "path": "Fonts/IRCAM/Tabarawt-Regular.ttf",
-    "family": "TabarawtRegular"
-  },
-  {
-    "name": "Tadlagt1 Regular",
-    "path": "Fonts/IRCAM/Tadlagt1-Regular.otf",
-    "family": "Tadlagt1Regular"
-  },
-  {
-    "name": "Tadlagt1 Regular",
-    "path": "Fonts/IRCAM/Tadlagt1-Regular.ttf",
-    "family": "Tadlagt1Regular"
-  },
-  {
-    "name": "Tadlagt2 Regular",
-    "path": "Fonts/IRCAM/Tadlagt2-Regular.otf",
-    "family": "Tadlagt2Regular"
-  },
-  {
-    "name": "Tadlagt2 Regular",
-    "path": "Fonts/IRCAM/Tadlagt2-Regular.ttf",
-    "family": "Tadlagt2Regular"
-  },
-  {
-    "name": "Tadlagt3 Regular",
-    "path": "Fonts/IRCAM/Tadlagt3-Regular.otf",
-    "family": "Tadlagt3Regular"
-  },
-  {
-    "name": "Tadlagt3 Regular",
-    "path": "Fonts/IRCAM/Tadlagt3-Regular.ttf",
-    "family": "Tadlagt3Regular"
-  },
-  {
-    "name": "TamaloutStandardUNICODE",
-    "path": "Fonts/IRCAM/TamaloutStandardUNICODE.ttf",
-    "family": "TamaloutStandardUNICODE"
-  },
-  {
-    "name": "TamzwartSTUNICODE",
-    "path": "Fonts/IRCAM/TamzwartSTUNICODE.ttf",
-    "family": "TamzwartSTUNICODE"
-  },
-  {
-    "name": "TassafoutStandardUNICODE",
-    "path": "Fonts/IRCAM/TassafoutStandardUNICODE.ttf",
-    "family": "TassafoutStandardUNICODE"
-  },
-  {
-    "name": "TazdaytStandardUNICODE",
-    "path": "Fonts/IRCAM/TazdaytStandardUNICODE.ttf",
-    "family": "TazdaytStandardUNICODE"
-  },
-  {
-    "name": "Tazirit UNICODE",
-    "path": "Fonts/IRCAM/Tazirit UNICODE.otf",
-    "family": "TaziritUNICODE"
-  },
-  {
-    "name": "TeddusStandardUNICODE",
-    "path": "Fonts/IRCAM/TeddusStandardUNICODE.ttf",
-    "family": "TeddusStandardUNICODE"
-  },
-  {
-    "name": "TifinaghBDDeux",
-    "path": "Fonts/IRCAM/TifinaghBDDeux.otf",
-    "family": "TifinaghBDDeux"
-  },
-  {
-    "name": "TifinaghBDUn",
-    "path": "Fonts/IRCAM/TifinaghBDUn.otf",
-    "family": "TifinaghBDUn"
-  },
-  {
-    "name": "TifinaghEcranDeux Bold",
-    "path": "Fonts/IRCAM/TifinaghEcranDeux-Bold.otf",
-    "family": "TifinaghEcranDeuxBold"
-  },
-  {
-    "name": "TifinaghEcranDeux",
-    "path": "Fonts/IRCAM/TifinaghEcranDeux.otf",
-    "family": "TifinaghEcranDeux"
-  },
-  {
-    "name": "TifinaghEcranUn Bold",
-    "path": "Fonts/IRCAM/TifinaghEcranUn-Bold.otf",
-    "family": "TifinaghEcranUnBold"
-  },
-  {
-    "name": "TifinaghEcranUn",
-    "path": "Fonts/IRCAM/TifinaghEcranUn.otf",
-    "family": "TifinaghEcranUn"
-  },
-  {
-    "name": "TifinaghRevueDeux Bold",
-    "path": "Fonts/IRCAM/TifinaghRevueDeux-Bold.otf",
-    "family": "TifinaghRevueDeuxBold"
-  },
-  {
-    "name": "TifinaghRevueDeux",
-    "path": "Fonts/IRCAM/TifinaghRevueDeux.otf",
-    "family": "TifinaghRevueDeux"
-  },
-  {
-    "name": "TifinaghRevueUn Bold",
-    "path": "Fonts/IRCAM/TifinaghRevueUn-Bold.otf",
-    "family": "TifinaghRevueUnBold"
-  },
-  {
-    "name": "TifinaghRevueUn",
-    "path": "Fonts/IRCAM/TifinaghRevueUn.otf",
-    "family": "TifinaghRevueUn"
-  },
-  {
-    "name": "Tifinaghe Ircam Unicode",
-    "path": "Fonts/IRCAM/Tifinaghe-Ircam_Unicode.ttf",
-    "family": "TifinagheIrcamUnicode"
-  },
-  {
-    "name": "TifinagheAdar Regular",
-    "path": "Fonts/IRCAM/TifinagheAdar-Regular.OTF",
-    "family": "TifinagheAdarRegular"
-  },
-  {
-    "name": "TifinagheAdar Regular",
-    "path": "Fonts/IRCAM/TifinagheAdar-Regular.ttf",
-    "family": "TifinagheAdarRegular"
-  },
-  {
-    "name": "TifinagheAfraw Regular",
-    "path": "Fonts/IRCAM/TifinagheAfraw-Regular.OTF",
-    "family": "TifinagheAfrawRegular"
-  },
-  {
-    "name": "TifinagheAfraw Regular",
-    "path": "Fonts/IRCAM/TifinagheAfraw-Regular.ttf",
-    "family": "TifinagheAfrawRegular"
-  },
-  {
-    "name": "TifinagheAfrdis Regular",
-    "path": "Fonts/IRCAM/TifinagheAfrdis-Regular.OTF",
-    "family": "TifinagheAfrdisRegular"
-  },
-  {
-    "name": "TifinagheAfrdis Regular",
-    "path": "Fonts/IRCAM/TifinagheAfrdis-Regular.ttf",
-    "family": "TifinagheAfrdisRegular"
-  },
-  {
-    "name": "TifinagheAmkkuz Regular",
-    "path": "Fonts/IRCAM/TifinagheAmkkuz-Regular.OTF",
-    "family": "TifinagheAmkkuzRegular"
-  },
-  {
-    "name": "TifinagheAmkkuz Regular",
-    "path": "Fonts/IRCAM/TifinagheAmkkuz-Regular.ttf",
-    "family": "TifinagheAmkkuzRegular"
-  },
-  {
-    "name": "TifinagheAmnzu Regular",
-    "path": "Fonts/IRCAM/TifinagheAmnzu-Regular.OTF",
-    "family": "TifinagheAmnzuRegular"
-  },
-  {
-    "name": "TifinagheAmnzu Regular",
-    "path": "Fonts/IRCAM/TifinagheAmnzu-Regular.ttf",
-    "family": "TifinagheAmnzuRegular"
-  },
-  {
-    "name": "TifinagheAmsdag Regular",
-    "path": "Fonts/IRCAM/TifinagheAmsdag-Regular.OTF",
-    "family": "TifinagheAmsdagRegular"
-  },
-  {
-    "name": "TifinagheAmsdag Regular",
-    "path": "Fonts/IRCAM/TifinagheAmsdag-Regular.ttf",
-    "family": "TifinagheAmsdagRegular"
-  },
-  {
-    "name": "TifinagheAnagray Regular 0",
-    "path": "Fonts/IRCAM/TifinagheAnagray-Regular_0.OTF",
-    "family": "TifinagheAnagrayRegular0"
-  },
-  {
-    "name": "TifinagheAnagray Regular 0",
-    "path": "Fonts/IRCAM/TifinagheAnagray-Regular_0.ttf",
-    "family": "TifinagheAnagrayRegular0"
-  },
-  {
-    "name": "TifinagheAnamyar Regular",
-    "path": "Fonts/IRCAM/TifinagheAnamyar-Regular.OTF",
-    "family": "TifinagheAnamyarRegular"
-  },
-  {
-    "name": "TifinagheAnamyar Regular",
-    "path": "Fonts/IRCAM/TifinagheAnamyar-Regular.ttf",
-    "family": "TifinagheAnamyarRegular"
-  },
-  {
-    "name": "TifinagheAqurar Regular",
-    "path": "Fonts/IRCAM/TifinagheAqurar-Regular.OTF",
-    "family": "TifinagheAqurarRegular"
-  },
-  {
-    "name": "TifinagheAqurar Regular",
-    "path": "Fonts/IRCAM/TifinagheAqurar-Regular.ttf",
-    "family": "TifinagheAqurarRegular"
-  },
-  {
-    "name": "TifinagheTanumi Regular",
-    "path": "Fonts/IRCAM/TifinagheTanumi-Regular.OTF",
-    "family": "TifinagheTanumiRegular"
-  },
-  {
-    "name": "TifinagheTanumi Regular",
-    "path": "Fonts/IRCAM/TifinagheTanumi-Regular.ttf",
-    "family": "TifinagheTanumiRegular"
-  },
-  {
-    "name": "Tinparis Regular",
-    "path": "Fonts/IRCAM/Tinparis-Regular.otf",
-    "family": "TinparisRegular"
-  },
-  {
-    "name": "Tinparis Regular",
-    "path": "Fonts/IRCAM/Tinparis-Regular.ttf",
-    "family": "TinparisRegular"
-  },
-  {
-    "name": "Tintfalatin Regular",
-    "path": "Fonts/IRCAM/Tintfalatin-Regular.otf",
-    "family": "TintfalatinRegular"
-  },
-  {
-    "name": "Tintfalatin Regular",
-    "path": "Fonts/IRCAM/Tintfalatin-Regular.ttf",
-    "family": "TintfalatinRegular"
-  },
-  {
-    "name": "agrawlan",
-    "path": "Fonts/IRCAM/agrawlan.ttf",
-    "family": "agrawlan"
-  },
-  {
-    "name": "amanar",
-    "path": "Fonts/IRCAM/amanar.ttf",
-    "family": "amanar"
-  },
-  {
-    "name": "anaruz",
-    "path": "Fonts/IRCAM/anaruz.ttf",
-    "family": "anaruz"
-  },
-  {
-    "name": "anaruz sin",
-    "path": "Fonts/IRCAM/anaruz_sin.ttf",
-    "family": "anaruzsin"
-  },
-  {
-    "name": "anaviz",
-    "path": "Fonts/IRCAM/anaviz.ttf",
-    "family": "anaviz"
-  },
-  {
-    "name": "anbraz",
-    "path": "Fonts/IRCAM/anbraz.ttf",
-    "family": "anbraz"
-  },
-  {
-    "name": "azmznozro",
-    "path": "Fonts/IRCAM/azmznozro.ttf",
-    "family": "azmznozro"
-  },
-  {
-    "name": "cactus",
-    "path": "Fonts/IRCAM/cactus.ttf",
-    "family": "cactus"
-  },
-  {
-    "name": "caligraphie",
-    "path": "Fonts/IRCAM/caligraphie.ttf",
-    "family": "caligraphie"
-  },
-  {
-    "name": "coupure",
-    "path": "Fonts/IRCAM/coupure.ttf",
-    "family": "coupure"
-  },
-  {
-    "name": "ebrima",
-    "path": "Fonts/IRCAM/ebrima.ttf",
-    "family": "ebrima"
-  },
-  {
-    "name": "ebrima bold",
-    "path": "Fonts/IRCAM/ebrima_bold.ttf",
-    "family": "ebrimabold"
-  },
-  {
-    "name": "ebrimabd",
-    "path": "Fonts/IRCAM/ebrimabd.ttf",
-    "family": "ebrimabd"
-  },
-  {
-    "name": "ferforge",
-    "path": "Fonts/IRCAM/ferforge.ttf",
-    "family": "ferforge"
-  },
-  {
-    "name": "font A",
-    "path": "Fonts/IRCAM/font_A.ttf",
-    "family": "fontA"
-  },
-  {
-    "name": "font B",
-    "path": "Fonts/IRCAM/font_B.ttf",
-    "family": "fontB"
-  },
-  {
-    "name": "goute",
-    "path": "Fonts/IRCAM/goute.ttf",
-    "family": "goute"
-  },
-  {
-    "name": "inknign",
-    "path": "Fonts/IRCAM/inknign.ttf",
-    "family": "inknign"
-  },
-  {
-    "name": "izriri",
-    "path": "Fonts/IRCAM/izriri.ttf",
-    "family": "izriri"
-  },
-  {
-    "name": "maghribi",
-    "path": "Fonts/IRCAM/maghribi.ttf",
-    "family": "maghribi"
-  },
-  {
-    "name": "pointu",
-    "path": "Fonts/IRCAM/pointu.ttf",
-    "family": "pointu"
-  },
-  {
-    "name": "tidfi",
-    "path": "Fonts/IRCAM/tidfi.ttf",
-    "family": "tidfi"
-  },
-  {
-    "name": "tifilit Regular",
-    "path": "Fonts/IRCAM/tifilit-Regular.otf",
-    "family": "tifilitRegular"
-  },
-  {
-    "name": "tifilit Regular",
-    "path": "Fonts/IRCAM/tifilit-Regular.ttf",
-    "family": "tifilitRegular"
-  },
-  {
-    "name": "tinmlt",
-    "path": "Fonts/IRCAM/tinmlt.ttf",
-    "family": "tinmlt"
-  },
-  {
-    "name": "tinmlt sin",
-    "path": "Fonts/IRCAM/tinmlt_sin.ttf",
-    "family": "tinmltsin"
-  },
-  {
-    "name": "totem",
-    "path": "Fonts/IRCAM/totem.ttf",
-    "family": "totem"
-  },
-  {
-    "name": "Akatab Black(1)",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-Black(1).ttf",
-    "family": "AkatabBlack(1)"
+    "family": "Agougunicode",
+    "formats": {
+      "ttf": "Fonts/IRCAM/Agoug_unicode.ttf"
+    }
   },
   {
     "name": "Akatab Black",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-Black.ttf",
-    "family": "AkatabBlack"
+    "family": "AkatabBlack",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-Black.ttf"
+    }
   },
   {
-    "name": "Akatab Bold(1)",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-Bold(1).ttf",
-    "family": "AkatabBold(1)"
+    "name": "Akatab Black(1)",
+    "family": "AkatabBlack(1)",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-Black(1).ttf"
+    }
   },
   {
     "name": "Akatab Bold",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-Bold.ttf",
-    "family": "AkatabBold"
+    "family": "AkatabBold",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-Bold.ttf"
+    }
   },
   {
-    "name": "Akatab ExtraBold(1)",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-ExtraBold(1).ttf",
-    "family": "AkatabExtraBold(1)"
+    "name": "Akatab Bold(1)",
+    "family": "AkatabBold(1)",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-Bold(1).ttf"
+    }
   },
   {
     "name": "Akatab ExtraBold",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-ExtraBold.ttf",
-    "family": "AkatabExtraBold"
+    "family": "AkatabExtraBold",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-ExtraBold.ttf"
+    }
   },
   {
-    "name": "Akatab Medium(1)",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-Medium(1).ttf",
-    "family": "AkatabMedium(1)"
+    "name": "Akatab ExtraBold(1)",
+    "family": "AkatabExtraBold(1)",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-ExtraBold(1).ttf"
+    }
   },
   {
     "name": "Akatab Medium",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-Medium.ttf",
-    "family": "AkatabMedium"
+    "family": "AkatabMedium",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-Medium.ttf"
+    }
   },
   {
-    "name": "Akatab Regular(1)",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-Regular(1).ttf",
-    "family": "AkatabRegular(1)"
+    "name": "Akatab Medium(1)",
+    "family": "AkatabMedium(1)",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-Medium(1).ttf"
+    }
   },
   {
     "name": "Akatab Regular",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-Regular.ttf",
-    "family": "AkatabRegular"
+    "family": "AkatabRegular",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-Regular.ttf"
+    }
   },
   {
-    "name": "Akatab SemiBold(1)",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-SemiBold(1).ttf",
-    "family": "AkatabSemiBold(1)"
+    "name": "Akatab Regular(1)",
+    "family": "AkatabRegular(1)",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-Regular(1).ttf"
+    }
   },
   {
     "name": "Akatab SemiBold",
-    "path": "Fonts/Other Tifinagh Variants/Akatab-SemiBold.ttf",
-    "family": "AkatabSemiBold"
+    "family": "AkatabSemiBold",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-SemiBold.ttf"
+    }
+  },
+  {
+    "name": "Akatab SemiBold(1)",
+    "family": "AkatabSemiBold(1)",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Akatab-SemiBold(1).ttf"
+    }
+  },
+  {
+    "name": "AlMotLaQ V2.5",
+    "family": "AlMotLaQV2.5",
+    "formats": {
+      "ttf": "Fonts/AlMotLaQ-V2.5.ttf"
+    }
+  },
+  {
+    "name": "AmaikhaTifinagh Regular",
+    "family": "AmaikhaTifinaghRegular",
+    "formats": {
+      "otf": "Fonts/AmaikhaTifinagh-Regular.otf",
+      "ttf": "Fonts/AmaikhaTifinagh-Regular.ttf"
+    }
+  },
+  {
+    "name": "Ammouri Tifinagh Outline",
+    "family": "AmmouriTifinaghOutline",
+    "formats": {
+      "ttf": "Fonts/Ammouri Tifinagh Outline.ttf"
+    }
+  },
+  {
+    "name": "Ammouri Tifinagh Regular",
+    "family": "AmmouriTifinaghRegular",
+    "formats": {
+      "ttf": "Fonts/Ammouri Tifinagh Regular.ttf"
+    }
+  },
+  {
+    "name": "Ammouri Tifinagh Shadow",
+    "family": "AmmouriTifinaghShadow",
+    "formats": {
+      "ttf": "Fonts/Ammouri Tifinagh Shadow.ttf"
+    }
+  },
+  {
+    "name": "Asdar semibold",
+    "family": "Asdarsemibold",
+    "formats": {
+      "otf": "Fonts/IRCAM/Asdar_semibold.otf"
+    }
+  },
+  {
+    "name": "Ayt Lmuddn Mrym",
+    "family": "AytLmuddnMrym",
+    "formats": {
+      "ttf": "Fonts/Ayt Lmuddn Mrym.ttf"
+    }
+  },
+  {
+    "name": "CODE2000",
+    "family": "CODE2000",
+    "formats": {
+      "ttf": "Fonts/CODE2000.TTF"
+    }
+  },
+  {
+    "name": "Callircam Blk",
+    "family": "CallircamBlk",
+    "formats": {
+      "otf": "Fonts/IRCAM/Callircam-Blk.otf"
+    }
+  },
+  {
+    "name": "Cartoon1471Extended x3oyq",
+    "family": "Cartoon1471Extendedx3oyq",
+    "formats": {
+      "ttf": "Fonts/Cartoon1471Extended-x3oyq.ttf"
+    }
+  },
+  {
+    "name": "Code2000 rdLO",
+    "family": "Code2000rdLO",
+    "formats": {
+      "ttf": "Fonts/Code2000-rdLO.ttf"
+    }
+  },
+  {
+    "name": "DejaVuSans",
+    "family": "DejaVuSans",
+    "formats": {
+      "ttf": "Fonts/DejaVuSans.ttf"
+    }
+  },
+  {
+    "name": "DejavuSans MdPB",
+    "family": "DejavuSansMdPB",
+    "formats": {
+      "ttf": "Fonts/DejavuSans-MdPB.ttf"
+    }
+  },
+  {
+    "name": "DejavuSansBold KEmZ",
+    "family": "DejavuSansBoldKEmZ",
+    "formats": {
+      "ttf": "Fonts/DejavuSansBold-KEmZ.ttf"
+    }
+  },
+  {
+    "name": "DejavuSansBoldOblique 23a3",
+    "family": "DejavuSansBoldOblique23a3",
+    "formats": {
+      "ttf": "Fonts/DejavuSansBoldOblique-23a3.ttf"
+    }
+  },
+  {
+    "name": "DejavuSansCondensed vdzy",
+    "family": "DejavuSansCondensedvdzy",
+    "formats": {
+      "ttf": "Fonts/DejavuSansCondensed-vdzy.ttf"
+    }
+  },
+  {
+    "name": "DejavuSansCondensedBold wdzP",
+    "family": "DejavuSansCondensedBoldwdzP",
+    "formats": {
+      "ttf": "Fonts/DejavuSansCondensedBold-wdzP.ttf"
+    }
+  },
+  {
+    "name": "DejavuSansCondensedBoldOblique 7Xxw",
+    "family": "DejavuSansCondensedBoldOblique7Xxw",
+    "formats": {
+      "ttf": "Fonts/DejavuSansCondensedBoldOblique-7Xxw.ttf"
+    }
+  },
+  {
+    "name": "DejavuSansCondensedOblique mVzj",
+    "family": "DejavuSansCondensedObliquemVzj",
+    "formats": {
+      "ttf": "Fonts/DejavuSansCondensedOblique-mVzj.ttf"
+    }
+  },
+  {
+    "name": "DejavuSansOblique dvzg",
+    "family": "DejavuSansObliquedvzg",
+    "formats": {
+      "ttf": "Fonts/DejavuSansOblique-dvzg.ttf"
+    }
   },
   {
     "name": "FaulmannFont JRMgj",
-    "path": "Fonts/Other Tifinagh Variants/FaulmannFont-JRMgj.ttf",
-    "family": "FaulmannFontJRMgj"
+    "family": "FaulmannFontJRMgj",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/FaulmannFont-JRMgj.ttf"
+    }
+  },
+  {
+    "name": "FedraTifinagh2 Regular",
+    "family": "FedraTifinagh2Regular",
+    "formats": {
+      "otf": "Fonts/FedraTifinagh2-Regular.otf"
+    }
+  },
+  {
+    "name": "FreeSans 1Zge",
+    "family": "FreeSans1Zge",
+    "formats": {
+      "otf": "Fonts/FreeSans-1Zge.otf"
+    }
+  },
+  {
+    "name": "FreeSans LrmZ",
+    "family": "FreeSansLrmZ",
+    "formats": {
+      "ttf": "Fonts/FreeSans-LrmZ.ttf"
+    }
+  },
+  {
+    "name": "FreeSansBold Rdmo",
+    "family": "FreeSansBoldRdmo",
+    "formats": {
+      "otf": "Fonts/FreeSansBold-Rdmo.otf"
+    }
+  },
+  {
+    "name": "FreeSansBold Xgdd",
+    "family": "FreeSansBoldXgdd",
+    "formats": {
+      "ttf": "Fonts/FreeSansBold-Xgdd.ttf"
+    }
+  },
+  {
+    "name": "FreeSansBoldOblique BYJ3",
+    "family": "FreeSansBoldObliqueBYJ3",
+    "formats": {
+      "otf": "Fonts/FreeSansBoldOblique-BYJ3.otf"
+    }
+  },
+  {
+    "name": "FreeSansBoldOblique g9mR",
+    "family": "FreeSansBoldObliqueg9mR",
+    "formats": {
+      "ttf": "Fonts/FreeSansBoldOblique-g9mR.ttf"
+    }
+  },
+  {
+    "name": "FreeSansOblique 8j92",
+    "family": "FreeSansOblique8j92",
+    "formats": {
+      "otf": "Fonts/FreeSansOblique-8j92.otf"
+    }
+  },
+  {
+    "name": "FreeSansOblique ol30",
+    "family": "FreeSansObliqueol30",
+    "formats": {
+      "ttf": "Fonts/FreeSansOblique-ol30.ttf"
+    }
+  },
+  {
+    "name": "FsSongarak1Regular Vea0",
+    "family": "FsSongarak1RegularVea0",
+    "formats": {
+      "ttf": "Fonts/FsSongarak1Regular-Vea0.ttf"
+    }
+  },
+  {
+    "name": "Gutik Regular",
+    "family": "GutikRegular",
+    "formats": {
+      "ttf": "Fonts/IRCAM/Gutik-Regular.ttf",
+      "otf": "Fonts/IRCAM/Gutik-Regular.otf"
+    }
   },
   {
     "name": "Hapax Berb\u00e8re, Regular",
-    "path": "Fonts/Other Tifinagh Variants/Hapax Berb\u00e8re, Regular.ttf",
-    "family": "HapaxBerb\u00e8re,Regular"
-  },
-  {
-    "name": "HapaxBAPT(1)",
-    "path": "Fonts/Other Tifinagh Variants/HapaxBAPT(1).ttf",
-    "family": "HapaxBAPT(1)"
-  },
-  {
-    "name": "HapaxBAPT",
-    "path": "Fonts/Other Tifinagh Variants/HapaxBAPT.ttf",
-    "family": "HapaxBAPT"
-  },
-  {
-    "name": "HapaxDzNAn shipped",
-    "path": "Fonts/Other Tifinagh Variants/HapaxDzNAn_shipped.ttf",
-    "family": "HapaxDzNAnshipped"
-  },
-  {
-    "name": "HapaxDzNCl shipped",
-    "path": "Fonts/Other Tifinagh Variants/HapaxDzNCl_shipped.ttf",
-    "family": "HapaxDzNClshipped"
-  },
-  {
-    "name": "HapaxDzN shipped",
-    "path": "Fonts/Other Tifinagh Variants/HapaxDzN_shipped.ttf",
-    "family": "HapaxDzNshipped"
-  },
-  {
-    "name": "HapaxTifinarCarre",
-    "path": "Fonts/Other Tifinagh Variants/HapaxTifinarCarre.ttf",
-    "family": "HapaxTifinarCarre"
-  },
-  {
-    "name": "HapaxTifinarRond",
-    "path": "Fonts/Other Tifinagh Variants/HapaxTifinarRond.ttf",
-    "family": "HapaxTifinarRond"
+    "family": "HapaxBerb\u00e8re,Regular",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Hapax Berb\u00e8re, Regular.ttf"
+    }
   },
   {
     "name": "Hapax shipped",
-    "path": "Fonts/Other Tifinagh Variants/Hapax_shipped.ttf",
-    "family": "Hapaxshipped"
+    "family": "Hapaxshipped",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Hapax_shipped.ttf"
+    }
+  },
+  {
+    "name": "HapaxBAPT",
+    "family": "HapaxBAPT",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/HapaxBAPT.ttf"
+    }
+  },
+  {
+    "name": "HapaxBAPT(1)",
+    "family": "HapaxBAPT(1)",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/HapaxBAPT(1).ttf"
+    }
+  },
+  {
+    "name": "HapaxDzN shipped",
+    "family": "HapaxDzNshipped",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/HapaxDzN_shipped.ttf"
+    }
+  },
+  {
+    "name": "HapaxDzNAn shipped",
+    "family": "HapaxDzNAnshipped",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/HapaxDzNAn_shipped.ttf"
+    }
+  },
+  {
+    "name": "HapaxDzNCl shipped",
+    "family": "HapaxDzNClshipped",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/HapaxDzNCl_shipped.ttf"
+    }
+  },
+  {
+    "name": "HapaxTifinarCarre",
+    "family": "HapaxTifinarCarre",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/HapaxTifinarCarre.ttf"
+    }
+  },
+  {
+    "name": "HapaxTifinarRond",
+    "family": "HapaxTifinarRond",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/HapaxTifinarRond.ttf"
+    }
+  },
+  {
+    "name": "Kigelia Regular",
+    "family": "KigeliaRegular",
+    "formats": {
+      "ttf": "Fonts/Kigelia_Regular.ttf",
+      "otf": "Fonts/Kigelia-Regular.otf"
+    }
+  },
+  {
+    "name": "LaContrastev0.1 Horizontale",
+    "family": "LaContrastev0.1Horizontale",
+    "formats": {
+      "otf": "Fonts/LaContrastev0.1-Horizontale.otf"
+    }
+  },
+  {
+    "name": "Multiple cursive scripts",
+    "family": "Multiplecursivescripts",
+    "formats": {
+      "ttf": "Fonts/IRCAM/Multiple_cursive_scripts.ttf"
+    }
+  },
+  {
+    "name": "NotoSansTifinagh Regular",
+    "family": "NotoSansTifinaghRegular",
+    "formats": {
+      "ttf": "Fonts/NotoSansTifinagh-Regular.ttf"
+    }
+  },
+  {
+    "name": "PressStart2P Regular",
+    "family": "PressStart2PRegular",
+    "formats": {
+      "otf": "Fonts/PressStart2P-Regular.otf"
+    }
+  },
+  {
+    "name": "Quivira A8VL",
+    "family": "QuiviraA8VL",
+    "formats": {
+      "ttf": "Fonts/Quivira-A8VL.ttf"
+    }
+  },
+  {
+    "name": "SECNaskhArabic Bold",
+    "family": "SECNaskhArabicBold",
+    "formats": {
+      "ttf": "Fonts/SECNaskhArabic-Bold.ttf"
+    }
+  },
+  {
+    "name": "SECNaskhArabic Regular",
+    "family": "SECNaskhArabicRegular",
+    "formats": {
+      "ttf": "Fonts/SECNaskhArabic-Regular.ttf"
+    }
+  },
+  {
+    "name": "SECNaskhArabicUI Bold",
+    "family": "SECNaskhArabicUIBold",
+    "formats": {
+      "ttf": "Fonts/SECNaskhArabicUI-Bold.ttf"
+    }
+  },
+  {
+    "name": "SECNaskhArabicUI Regular",
+    "family": "SECNaskhArabicUIRegular",
+    "formats": {
+      "ttf": "Fonts/SECNaskhArabicUI-Regular.ttf"
+    }
+  },
+  {
+    "name": "T I UNICODE",
+    "family": "TIUNICODE",
+    "formats": {
+      "ttf": "Fonts/IRCAM/T_I_UNICODE.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 1 AGRAGHLAN",
+    "family": "TFNGHUNICODE1AGRAGHLAN",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-1-AGRAGHLAN.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 1 TIDRFI",
+    "family": "TFNGHUNICODE1TIDRFI",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-1-TIDRFI.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 1 TIDRFI bd",
+    "family": "TFNGHUNICODE1TIDRFIbd",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-1-TIDRFI_bd.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 2 ADLIS",
+    "family": "TFNGHUNICODE2ADLIS",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-2-ADLIS.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 2 ADLIS bd",
+    "family": "TFNGHUNICODE2ADLISbd",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-2-ADLIS_bd.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 2 TAGURI",
+    "family": "TFNGHUNICODE2TAGURI",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-2-TAGURI.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 2 TAGURI SIN",
+    "family": "TFNGHUNICODE2TAGURISIN",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-2-TAGURI_SIN.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 2 TAGURI SIN bdit",
+    "family": "TFNGHUNICODE2TAGURISINbdit",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-2-TAGURI_SIN_bdit.ttf"
+    }
+  },
+  {
+    "name": "TFNGH UNICODE 2 TAGURI bd",
+    "family": "TFNGHUNICODE2TAGURIbd",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TFNGH-UNICODE-2-TAGURI_bd.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE ABAQTICH",
+    "family": "TIFINAGHEABAQTICH",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_ABAQTICH.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_ABAQTICH.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE AFRAG",
+    "family": "TIFINAGHEAFRAG",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_AFRAG.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_AFRAG.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE AMAWAS",
+    "family": "TIFINAGHEAMAWAS",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_AMAWAS.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_AMAWAS.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE AMNNAGH",
+    "family": "TIFINAGHEAMNNAGH",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_AMNNAGH.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_AMNNAGH.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE AMTROY",
+    "family": "TIFINAGHEAMTROY",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_AMTROY.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_AMTROY.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE AMURAR",
+    "family": "TIFINAGHEAMURAR",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_AMURAR.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_AMURAR.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE ANAFAW",
+    "family": "TIFINAGHEANAFAW",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_ANAFAW.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_ANAFAW.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE ASFRGH",
+    "family": "TIFINAGHEASFRGH",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_ASFRGH.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_ASFRGH.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE AZURAR",
+    "family": "TIFINAGHEAZURAR",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_AZURAR.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_AZURAR.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE AZURAR2",
+    "family": "TIFINAGHEAZURAR2",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_AZURAR2.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_AZURAR2.ttf"
+    }
+  },
+  {
+    "name": "TIFINAGHE TAMGHRA",
+    "family": "TIFINAGHETAMGHRA",
+    "formats": {
+      "otf": "Fonts/IRCAM/TIFINAGHE_TAMGHRA.OTF",
+      "ttf": "Fonts/IRCAM/TIFINAGHE_TAMGHRA.ttf"
+    }
+  },
+  {
+    "name": "Tabarawt Regular",
+    "family": "TabarawtRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/Tabarawt-Regular.otf",
+      "ttf": "Fonts/IRCAM/Tabarawt-Regular.ttf"
+    }
+  },
+  {
+    "name": "Tadlagt1 Regular",
+    "family": "Tadlagt1Regular",
+    "formats": {
+      "otf": "Fonts/IRCAM/Tadlagt1-Regular.otf",
+      "ttf": "Fonts/IRCAM/Tadlagt1-Regular.ttf"
+    }
+  },
+  {
+    "name": "Tadlagt2 Regular",
+    "family": "Tadlagt2Regular",
+    "formats": {
+      "otf": "Fonts/IRCAM/Tadlagt2-Regular.otf",
+      "ttf": "Fonts/IRCAM/Tadlagt2-Regular.ttf"
+    }
+  },
+  {
+    "name": "Tadlagt3 Regular",
+    "family": "Tadlagt3Regular",
+    "formats": {
+      "otf": "Fonts/IRCAM/Tadlagt3-Regular.otf",
+      "ttf": "Fonts/IRCAM/Tadlagt3-Regular.ttf"
+    }
   },
   {
     "name": "Tagmukay B",
-    "path": "Fonts/Other Tifinagh Variants/Tagmukay-B.ttf",
-    "family": "TagmukayB"
+    "family": "TagmukayB",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Tagmukay-B.ttf"
+    }
   },
   {
     "name": "Tagmukay Bold",
-    "path": "Fonts/Other Tifinagh Variants/Tagmukay-Bold.ttf",
-    "family": "TagmukayBold"
+    "family": "TagmukayBold",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Tagmukay-Bold.ttf"
+    }
   },
   {
     "name": "Tagmukay Regular",
-    "path": "Fonts/Other Tifinagh Variants/Tagmukay-Regular.ttf",
-    "family": "TagmukayRegular"
+    "family": "TagmukayRegular",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/Tagmukay-Regular.ttf"
+    }
   },
   {
-    "name": "YugurtenACEBHapax",
-    "path": "Fonts/Other Tifinagh Variants/YugurtenACEBHapax.ttf",
-    "family": "YugurtenACEBHapax"
+    "name": "TamaloutStandardUNICODE",
+    "family": "TamaloutStandardUNICODE",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TamaloutStandardUNICODE.ttf"
+    }
   },
   {
-    "name": "damase v.2",
-    "path": "Fonts/Other Tifinagh Variants/damase_v.2.ttf",
-    "family": "damasev.2"
+    "name": "TamzwartSTUNICODE",
+    "family": "TamzwartSTUNICODE",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TamzwartSTUNICODE.ttf"
+    }
   },
   {
-    "name": "hapaxber 6.1",
-    "path": "Fonts/Other Tifinagh Variants/hapaxber-6.1.ttf",
-    "family": "hapaxber6.1"
+    "name": "TassafoutStandardUNICODE",
+    "family": "TassafoutStandardUNICODE",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TassafoutStandardUNICODE.ttf"
+    }
   },
   {
-    "name": "hapaxber.ttf",
-    "path": "Fonts/Other Tifinagh Variants/hapaxber.ttf.otf",
-    "family": "hapaxber.ttf"
+    "name": "TazdaytStandardUNICODE",
+    "family": "TazdaytStandardUNICODE",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TazdaytStandardUNICODE.ttf"
+    }
   },
   {
-    "name": "TifinaghKabaw Tanes Regular",
-    "path": "Fonts/Tawalt/TifinaghKabaw-Tanes-Regular.otf",
-    "family": "TifinaghKabawTanesRegular"
+    "name": "Tazirit UNICODE",
+    "family": "TaziritUNICODE",
+    "formats": {
+      "otf": "Fonts/IRCAM/Tazirit UNICODE.otf"
+    }
   },
   {
-    "name": "Tifinaghe TawaltAmawal",
-    "path": "Fonts/Tawalt/Tifinaghe-TawaltAmawal.otf",
-    "family": "TifinagheTawaltAmawal"
-  },
-  {
-    "name": "Tifinaghe TawaltAmawal",
-    "path": "Fonts/Tawalt/Tifinaghe-TawaltAmawal.ttf",
-    "family": "TifinagheTawaltAmawal"
-  },
-  {
-    "name": "Tifinaghe TawaltAmawalBold",
-    "path": "Fonts/Tawalt/Tifinaghe-TawaltAmawalBold.otf",
-    "family": "TifinagheTawaltAmawalBold"
-  },
-  {
-    "name": "Tifinaghe TawaltAmawalBold",
-    "path": "Fonts/Tawalt/Tifinaghe-TawaltAmawalBold.ttf",
-    "family": "TifinagheTawaltAmawalBold"
-  },
-  {
-    "name": "Tifinaghe TawaltUnicode",
-    "path": "Fonts/Tawalt/Tifinaghe-TawaltUnicode.otf",
-    "family": "TifinagheTawaltUnicode"
-  },
-  {
-    "name": "Tifinaghe TawaltUnicode",
-    "path": "Fonts/Tawalt/Tifinaghe-TawaltUnicode.ttf",
-    "family": "TifinagheTawaltUnicode"
+    "name": "TeddusStandardUNICODE",
+    "family": "TeddusStandardUNICODE",
+    "formats": {
+      "ttf": "Fonts/IRCAM/TeddusStandardUNICODE.ttf"
+    }
   },
   {
     "name": "TfinaghKabaw Nfusa Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TfinaghKabaw-Nfusa-Regular.otf",
-    "family": "TfinaghKabawNfusaRegular"
+    "family": "TfinaghKabawNfusaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TfinaghKabaw-Nfusa-Regular.otf"
+    }
+  },
+  {
+    "name": "Tifinagh Abudrar Light",
+    "family": "TifinaghAbudrarLight",
+    "formats": {
+      "ttf": "Fonts/Tifinagh Abudrar Light.ttf"
+    }
+  },
+  {
+    "name": "Tifinagh Abudrar Light web",
+    "family": "TifinaghAbudrarLightweb",
+    "formats": {
+      "ttf": "Fonts/Tifinagh Abudrar Light web.ttf"
+    }
+  },
+  {
+    "name": "Tifinagh Abudrar Normal",
+    "family": "TifinaghAbudrarNormal",
+    "formats": {
+      "ttf": "Fonts/Tifinagh Abudrar Normal.ttf"
+    }
   },
   {
     "name": "TifinaghAdlis 1+2 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-1+2-Regular.otf",
-    "family": "TifinaghAdlis1+2Regular"
+    "family": "TifinaghAdlis1+2Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-1+2-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdlis Aghilas4 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Aghilas4-Regular.otf",
-    "family": "TifinaghAdlisAghilas4Regular"
+    "family": "TifinaghAdlisAghilas4Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Aghilas4-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdlis Aghilasafra Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Aghilasafra-Regular.otf",
-    "family": "TifinaghAdlisAghilasafraRegular"
+    "family": "TifinaghAdlisAghilasafraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Aghilasafra-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdlis Assan Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Assan-Regular.otf",
-    "family": "TifinaghAdlisAssanRegular"
+    "family": "TifinaghAdlisAssanRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Assan-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Afus Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Afus-Regular.otf",
-    "family": "TifinaghAdrarAfusRegular"
+    "family": "TifinaghAdrarAfusRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Afus-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Afusdfus Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Afusdfus-Regular.otf",
-    "family": "TifinaghAdrarAfusdfusRegular"
+    "family": "TifinaghAdrarAfusdfusRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Afusdfus-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Aghilas Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Aghilas-Regular.otf",
-    "family": "TifinaghAdrarAghilasRegular"
+    "family": "TifinaghAdrarAghilasRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Aghilas-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Agraj Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Agraj-Regular.otf",
-    "family": "TifinaghAdrarAgrajRegular"
+    "family": "TifinaghAdrarAgrajRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Agraj-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Agzul Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Agzul-Regular.otf",
-    "family": "TifinaghAdrarAgzulRegular"
+    "family": "TifinaghAdrarAgzulRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Agzul-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Almass Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Almass-Regular.otf",
-    "family": "TifinaghAdrarAlmassRegular"
+    "family": "TifinaghAdrarAlmassRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Almass-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Ari Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Ari-Regular.otf",
-    "family": "TifinaghAdrarAriRegular"
+    "family": "TifinaghAdrarAriRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Ari-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Armass Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Armass-Regular.otf",
-    "family": "TifinaghAdrarArmassRegular"
+    "family": "TifinaghAdrarArmassRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Armass-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Azdad 2 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Azdad-2-Regular.otf",
-    "family": "TifinaghAdrarAzdad2Regular"
+    "family": "TifinaghAdrarAzdad2Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Azdad-2-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Azdad Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Azdad-Regular.otf",
-    "family": "TifinaghAdrarAzdadRegular"
+    "family": "TifinaghAdrarAzdadRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Azdad-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Filem Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Filem-Regular.otf",
-    "family": "TifinaghAdrarFilemRegular"
+    "family": "TifinaghAdrarFilemRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Filem-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar FilemN Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-FilemN-Regular.otf",
-    "family": "TifinaghAdrarFilemNRegular"
+    "family": "TifinaghAdrarFilemNRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-FilemN-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Latinamazigh Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Latinamazigh-Regular.otf",
-    "family": "TifinaghAdrarLatinamazighRegular"
+    "family": "TifinaghAdrarLatinamazighRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Latinamazigh-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Masinissa Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Masinissa-Regular.otf",
-    "family": "TifinaghAdrarMasinissaRegular"
+    "family": "TifinaghAdrarMasinissaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Masinissa-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Muradk3oan Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Muradk3oan-Regular.otf",
-    "family": "TifinaghAdrarMuradk3oanRegular"
+    "family": "TifinaghAdrarMuradk3oanRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Muradk3oan-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Tasunit Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tasunit-Regular.otf",
-    "family": "TifinaghAdrarTasunitRegular"
+    "family": "TifinaghAdrarTasunitRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tasunit-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Tazdit Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tazdit-Regular.otf",
-    "family": "TifinaghAdrarTazditRegular"
+    "family": "TifinaghAdrarTazditRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tazdit-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Tifayur Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tifayur-Regular.otf",
-    "family": "TifinaghAdrarTifayurRegular"
+    "family": "TifinaghAdrarTifayurRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tifayur-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Tinmal Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tinmal-Regular.otf",
-    "family": "TifinaghAdrarTinmalRegular"
+    "family": "TifinaghAdrarTinmalRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tinmal-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAdrar Tira Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tira-Regular.otf",
-    "family": "TifinaghAdrarTiraRegular"
+    "family": "TifinaghAdrarTiraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tira-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAwal Tira Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tira-Regular.otf",
-    "family": "TifinaghAwalTiraRegular"
+    "family": "TifinaghAwalTiraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tira-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAwal Tiraix Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiraix-Regular.otf",
-    "family": "TifinaghAwalTiraixRegular"
+    "family": "TifinaghAwalTiraixRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiraix-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAwal Tiranagh Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiranagh-Regular.otf",
-    "family": "TifinaghAwalTiranaghRegular"
+    "family": "TifinaghAwalTiranaghRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiranagh-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAwal Tirax Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tirax-Regular.otf",
-    "family": "TifinaghAwalTiraxRegular"
+    "family": "TifinaghAwalTiraxRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tirax-Regular.otf"
+    }
   },
   {
     "name": "TifinaghAwal Tiraxx Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiraxx-Regular.otf",
-    "family": "TifinaghAwalTiraxxRegular"
+    "family": "TifinaghAwalTiraxxRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiraxx-Regular.otf"
+    }
+  },
+  {
+    "name": "TifinaghBDDeux",
+    "family": "TifinaghBDDeux",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghBDDeux.otf"
+    }
+  },
+  {
+    "name": "TifinaghBDUn",
+    "family": "TifinaghBDUn",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghBDUn.otf"
+    }
+  },
+  {
+    "name": "TifinaghEcranDeux",
+    "family": "TifinaghEcranDeux",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghEcranDeux.otf"
+    }
+  },
+  {
+    "name": "TifinaghEcranDeux Bold",
+    "family": "TifinaghEcranDeuxBold",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghEcranDeux-Bold.otf"
+    }
+  },
+  {
+    "name": "TifinaghEcranUn",
+    "family": "TifinaghEcranUn",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghEcranUn.otf"
+    }
+  },
+  {
+    "name": "TifinaghEcranUn Bold",
+    "family": "TifinaghEcranUnBold",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghEcranUn-Bold.otf"
+    }
   },
   {
     "name": "TifinaghIRCAM Teddus Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghIRCAM-Teddus-Regular.otf",
-    "family": "TifinaghIRCAMTeddusRegular"
+    "family": "TifinaghIRCAMTeddusRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghIRCAM-Teddus-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw AdelAlhjaj Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AdelAlhjaj-Regular.otf",
-    "family": "TifinaghKabawAdelAlhjajRegular"
+    "family": "TifinaghKabawAdelAlhjajRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AdelAlhjaj-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw AfkanAmzwar Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AfkanAmzwar-Regular.otf",
-    "family": "TifinaghKabawAfkanAmzwarRegular"
+    "family": "TifinaghKabawAfkanAmzwarRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AfkanAmzwar-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Afus Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Afus-Regular.otf",
-    "family": "TifinaghKabawAfusRegular"
+    "family": "TifinaghKabawAfusRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Afus-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Aghaniem Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aghaniem-Regular.otf",
-    "family": "TifinaghKabawAghaniemRegular"
+    "family": "TifinaghKabawAghaniemRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aghaniem-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Agraj Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agraj-Regular.otf",
-    "family": "TifinaghKabawAgrajRegular"
+    "family": "TifinaghKabawAgrajRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agraj-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Agrajafra Italic",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agrajafra-Italic.otf",
-    "family": "TifinaghKabawAgrajafraItalic"
+    "family": "TifinaghKabawAgrajafraItalic",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agrajafra-Italic.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Agraw Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agraw-Regular.otf",
-    "family": "TifinaghKabawAgrawRegular"
+    "family": "TifinaghKabawAgrawRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agraw-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Aimnalbaruni Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aimnalbaruni-Regular.otf",
-    "family": "TifinaghKabawAimnalbaruniRegular"
+    "family": "TifinaghKabawAimnalbaruniRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aimnalbaruni-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Aksel Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aksel-Regular.otf",
-    "family": "TifinaghKabawAkselRegular"
+    "family": "TifinaghKabawAkselRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aksel-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Aksell Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aksell-Regular.otf",
-    "family": "TifinaghKabawAksellRegular"
+    "family": "TifinaghKabawAksellRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aksell-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Amghnas Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amghnas-Regular.otf",
-    "family": "TifinaghKabawAmghnasRegular"
+    "family": "TifinaghKabawAmghnasRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amghnas-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Amna Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amna-Regular.otf",
-    "family": "TifinaghKabawAmnaRegular"
+    "family": "TifinaghKabawAmnaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amna-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw AmnaFont 2 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AmnaFont-2-Regular.otf",
-    "family": "TifinaghKabawAmnaFont2Regular"
+    "family": "TifinaghKabawAmnaFont2Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AmnaFont-2-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Amrwas Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amrwas-Regular.otf",
-    "family": "TifinaghKabawAmrwasRegular"
+    "family": "TifinaghKabawAmrwasRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amrwas-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Amrwass Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amrwass-Regular.otf",
-    "family": "TifinaghKabawAmrwassRegular"
+    "family": "TifinaghKabawAmrwassRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amrwass-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Azwad Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Azwad-Regular.otf",
-    "family": "TifinaghKabawAzwadRegular"
+    "family": "TifinaghKabawAzwadRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Azwad-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Azzgrar Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Azzgrar-Regular.otf",
-    "family": "TifinaghKabawAzzgrarRegular"
+    "family": "TifinaghKabawAzzgrarRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Azzgrar-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw AzzgrarMshek Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AzzgrarMshek-Regular.otf",
-    "family": "TifinaghKabawAzzgrarMshekRegular"
+    "family": "TifinaghKabawAzzgrarMshekRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AzzgrarMshek-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw BorabyaaShriha Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-BorabyaaShriha-Regular.otf",
-    "family": "TifinaghKabawBorabyaaShrihaRegular"
+    "family": "TifinaghKabawBorabyaaShrihaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-BorabyaaShriha-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Borawyshriha Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Borawyshriha-Regular.otf",
-    "family": "TifinaghKabawBorawyshrihaRegular"
+    "family": "TifinaghKabawBorawyshrihaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Borawyshriha-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Brga Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Brga-Regular.otf",
-    "family": "TifinaghKabawBrgaRegular"
+    "family": "TifinaghKabawBrgaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Brga-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw CawBoy Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-CawBoy-Regular.otf",
-    "family": "TifinaghKabawCawBoyRegular"
+    "family": "TifinaghKabawCawBoyRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-CawBoy-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Dijtel Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Dijtel-Regular.otf",
-    "family": "TifinaghKabawDijtelRegular"
-  },
-  {
-    "name": "TifinaghKabaw Ebrahimalhjaj Regular Asdad",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ebrahimalhjaj-Regular-Asdad.otf",
-    "family": "TifinaghKabawEbrahimalhjajRegularAsdad"
+    "family": "TifinaghKabawDijtelRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Dijtel-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Ebrahimalhjaj Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ebrahimalhjaj-Regular.otf",
-    "family": "TifinaghKabawEbrahimalhjajRegular"
+    "family": "TifinaghKabawEbrahimalhjajRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ebrahimalhjaj-Regular.otf"
+    }
+  },
+  {
+    "name": "TifinaghKabaw Ebrahimalhjaj Regular Asdad",
+    "family": "TifinaghKabawEbrahimalhjajRegularAsdad",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ebrahimalhjaj-Regular-Asdad.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Elias Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Elias-Regular.otf",
-    "family": "TifinaghKabawEliasRegular"
+    "family": "TifinaghKabawEliasRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Elias-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Hatamalbroni Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hatamalbroni-Regular.otf",
-    "family": "TifinaghKabawHatamalbroniRegular"
+    "family": "TifinaghKabawHatamalbroniRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hatamalbroni-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Hip Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hip-Regular.otf",
-    "family": "TifinaghKabawHipRegular"
+    "family": "TifinaghKabawHipRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hip-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Hipssan Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hipssan-Regular.otf",
-    "family": "TifinaghKabawHipssanRegular"
+    "family": "TifinaghKabawHipssanRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hipssan-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Hipujan Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hipujan-Regular.otf",
-    "family": "TifinaghKabawHipujanRegular"
+    "family": "TifinaghKabawHipujanRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hipujan-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Hitmalbaruni Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hitmalbaruni-Regular.otf",
-    "family": "TifinaghKabawHitmalbaruniRegular"
+    "family": "TifinaghKabawHitmalbaruniRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hitmalbaruni-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Hnibal Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hnibal-Regular.otf",
-    "family": "TifinaghKabawHnibalRegular"
+    "family": "TifinaghKabawHnibalRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hnibal-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Hosamalhjaj Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hosamalhjaj-Regular.otf",
-    "family": "TifinaghKabawHosamalhjajRegular"
+    "family": "TifinaghKabawHosamalhjajRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hosamalhjaj-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Hosamalhjajj Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hosamalhjajj-Regular.otf",
-    "family": "TifinaghKabawHosamalhjajjRegular"
+    "family": "TifinaghKabawHosamalhjajjRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hosamalhjajj-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Idmenazwad Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Idmenazwad-Regular.otf",
-    "family": "TifinaghKabawIdmenazwadRegular"
+    "family": "TifinaghKabawIdmenazwadRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Idmenazwad-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Ilesntmura Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ilesntmura-Regular.otf",
-    "family": "TifinaghKabawIlesntmuraRegular"
+    "family": "TifinaghKabawIlesntmuraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ilesntmura-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Imir Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Imir-Regular.otf",
-    "family": "TifinaghKabawImirRegular"
+    "family": "TifinaghKabawImirRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Imir-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw ImirAfra Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-ImirAfra-Regular.otf",
-    "family": "TifinaghKabawImirAfraRegular"
+    "family": "TifinaghKabawImirAfraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-ImirAfra-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Infusan Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Infusan-Regular.otf",
-    "family": "TifinaghKabawInfusanRegular"
+    "family": "TifinaghKabawInfusanRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Infusan-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Ithri Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ithri-Regular.otf",
-    "family": "TifinaghKabawIthriRegular"
+    "family": "TifinaghKabawIthriRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ithri-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Izri Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Izri-Regular.otf",
-    "family": "TifinaghKabawIzriRegular"
+    "family": "TifinaghKabawIzriRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Izri-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Jomasda Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Jomasda-Regular.otf",
-    "family": "TifinaghKabawJomasdaRegular"
+    "family": "TifinaghKabawJomasdaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Jomasda-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Jumaakrkara Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Jumaakrkara-Regular.otf",
-    "family": "TifinaghKabawJumaakrkaraRegular"
+    "family": "TifinaghKabawJumaakrkaraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Jumaakrkara-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Kabawn Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawn-Regular.otf",
-    "family": "TifinaghKabawKabawnRegular"
+    "family": "TifinaghKabawKabawnRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawn-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Kabawnafra Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawnafra-Regular.otf",
-    "family": "TifinaghKabawKabawnafraRegular"
+    "family": "TifinaghKabawKabawnafraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawnafra-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Kabawnnagh Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawnnagh-Regular.otf",
-    "family": "TifinaghKabawKabawnnaghRegular"
+    "family": "TifinaghKabawKabawnnaghRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawnnagh-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Kasmnajaa Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kasmnajaa-Regular.otf",
-    "family": "TifinaghKabawKasmnajaaRegular"
+    "family": "TifinaghKabawKasmnajaaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kasmnajaa-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Kholaalbruni Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kholaalbruni-Regular.otf",
-    "family": "TifinaghKabawKholaalbruniRegular"
+    "family": "TifinaghKabawKholaalbruniRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kholaalbruni-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw KmalThraf Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-KmalThraf-Regular.otf",
-    "family": "TifinaghKabawKmalThrafRegular"
+    "family": "TifinaghKabawKmalThrafRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-KmalThraf-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Knarai Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Knarai-Regular.otf",
-    "family": "TifinaghKabawKnaraiRegular"
+    "family": "TifinaghKabawKnaraiRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Knarai-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Knari Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Knari-Regular.otf",
-    "family": "TifinaghKabawKnariRegular"
+    "family": "TifinaghKabawKnariRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Knari-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Madghismadi Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Madghismadi-Regular.otf",
-    "family": "TifinaghKabawMadghismadiRegular"
+    "family": "TifinaghKabawMadghismadiRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Madghismadi-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Masinissa Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Masinissa-Regular.otf",
-    "family": "TifinaghKabawMasinissaRegular"
+    "family": "TifinaghKabawMasinissaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Masinissa-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Masudrubx Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Masudrubx-Regular.otf",
-    "family": "TifinaghKabawMasudrubxRegular"
+    "family": "TifinaghKabawMasudrubxRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Masudrubx-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw MatoubLounas Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MatoubLounas-Regular.otf",
-    "family": "TifinaghKabawMatoubLounasRegular"
+    "family": "TifinaghKabawMatoubLounasRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MatoubLounas-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Mazigh Bold",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mazigh-Bold.otf",
-    "family": "TifinaghKabawMazighBold"
+    "family": "TifinaghKabawMazighBold",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mazigh-Bold.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Mckaken Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mckaken-Regular.otf",
-    "family": "TifinaghKabawMckakenRegular"
+    "family": "TifinaghKabawMckakenRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mckaken-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Mckakennagh Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mckakennagh-Regular.otf",
-    "family": "TifinaghKabawMckakennaghRegular"
+    "family": "TifinaghKabawMckakennaghRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mckakennagh-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Mnad Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mnad-Regular.otf",
-    "family": "TifinaghKabawMnadRegular"
+    "family": "TifinaghKabawMnadRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mnad-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw MohmedAlhjaj Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MohmedAlhjaj-Regular.otf",
-    "family": "TifinaghKabawMohmedAlhjajRegular"
+    "family": "TifinaghKabawMohmedAlhjajRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MohmedAlhjaj-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Mohmedkrakozz2 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mohmedkrakozz2-Regular.otf",
-    "family": "TifinaghKabawMohmedkrakozz2Regular"
+    "family": "TifinaghKabawMohmedkrakozz2Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mohmedkrakozz2-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw MsaudRubx Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MsaudRubx-Regular.otf",
-    "family": "TifinaghKabawMsaudRubxRegular"
+    "family": "TifinaghKabawMsaudRubxRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MsaudRubx-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw NadarDawad Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-NadarDawad-Regular.otf",
-    "family": "TifinaghKabawNadarDawadRegular"
+    "family": "TifinaghKabawNadarDawadRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-NadarDawad-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw NanaMaran Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-NanaMaran-Regular.otf",
-    "family": "TifinaghKabawNanaMaranRegular"
+    "family": "TifinaghKabawNanaMaranRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-NanaMaran-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Raufalbaruny Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Raufalbaruny-Regular.otf",
-    "family": "TifinaghKabawRaufalbarunyRegular"
+    "family": "TifinaghKabawRaufalbarunyRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Raufalbaruny-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw RmdanDamja Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-RmdanDamja-Regular.otf",
-    "family": "TifinaghKabawRmdanDamjaRegular"
+    "family": "TifinaghKabawRmdanDamjaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-RmdanDamja-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Russia2018 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Russia2018-Regular.otf",
-    "family": "TifinaghKabawRussia2018Regular"
+    "family": "TifinaghKabawRussia2018Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Russia2018-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw SaidSifaw Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-SaidSifaw-Regular.otf",
-    "family": "TifinaghKabawSaidSifawRegular"
+    "family": "TifinaghKabawSaidSifawRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-SaidSifaw-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw ShiShnq Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-ShiShnq-Regular.otf",
-    "family": "TifinaghKabawShiShnqRegular"
+    "family": "TifinaghKabawShiShnqRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-ShiShnq-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Sifax Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Sifax-Regular.otf",
-    "family": "TifinaghKabawSifaxRegular"
+    "family": "TifinaghKabawSifaxRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Sifax-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw SirajEbrahim Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-SirajEbrahim-Regular.otf",
-    "family": "TifinaghKabawSirajEbrahimRegular"
+    "family": "TifinaghKabawSirajEbrahimRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-SirajEbrahim-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tabrat Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tabrat-Regular.otf",
-    "family": "TifinaghKabawTabratRegular"
+    "family": "TifinaghKabawTabratRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tabrat-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tadra Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tadra-Regular.otf",
-    "family": "TifinaghKabawTadraRegular"
+    "family": "TifinaghKabawTadraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tadra-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Taghrma Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Taghrma-Regular.otf",
-    "family": "TifinaghKabawTaghrmaRegular"
+    "family": "TifinaghKabawTaghrmaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Taghrma-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tagrawla Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tagrawla-Regular.otf",
-    "family": "TifinaghKabawTagrawlaRegular"
+    "family": "TifinaghKabawTagrawlaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tagrawla-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tairinngh Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tairinngh-Regular.otf",
-    "family": "TifinaghKabawTairinnghRegular"
+    "family": "TifinaghKabawTairinnghRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tairinngh-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tajdiggat Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tajdiggat-Regular.otf",
-    "family": "TifinaghKabawTajdiggatRegular"
+    "family": "TifinaghKabawTajdiggatRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tajdiggat-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Talji Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Talji-Regular.otf",
-    "family": "TifinaghKabawTaljiRegular"
+    "family": "TifinaghKabawTaljiRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Talji-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tallunt Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tallunt-Regular.otf",
-    "family": "TifinaghKabawTalluntRegular"
+    "family": "TifinaghKabawTalluntRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tallunt-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Talluntx Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Talluntx-Regular.otf",
-    "family": "TifinaghKabawTalluntxRegular"
+    "family": "TifinaghKabawTalluntxRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Talluntx-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tambult Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult-Regular.otf",
-    "family": "TifinaghKabawTambultRegular"
+    "family": "TifinaghKabawTambultRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tambult0 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult0-Regular.otf",
-    "family": "TifinaghKabawTambult0Regular"
+    "family": "TifinaghKabawTambult0Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult0-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tambult1 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult1-Regular.otf",
-    "family": "TifinaghKabawTambult1Regular"
+    "family": "TifinaghKabawTambult1Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult1-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tambultx Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambultx-Regular.otf",
-    "family": "TifinaghKabawTambultxRegular"
+    "family": "TifinaghKabawTambultxRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambultx-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tamikrest Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tamikrest-Regular.otf",
-    "family": "TifinaghKabawTamikrestRegular"
+    "family": "TifinaghKabawTamikrestRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tamikrest-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tamuort Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tamuort-Regular.otf",
-    "family": "TifinaghKabawTamuortRegular"
+    "family": "TifinaghKabawTamuortRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tamuort-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tanes Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tanes-Regular.otf",
-    "family": "TifinaghKabawTanesRegular"
-  },
-  {
-    "name": "TifinaghKabaw Tans v Italic",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tans v-Italic.otf",
-    "family": "TifinaghKabawTansvItalic"
+    "family": "TifinaghKabawTanesRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tanes-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tans Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tans-Regular.otf",
-    "family": "TifinaghKabawTansRegular"
+    "family": "TifinaghKabawTansRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tans-Regular.otf"
+    }
+  },
+  {
+    "name": "TifinaghKabaw Tans v Italic",
+    "family": "TifinaghKabawTansvItalic",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tans v-Italic.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tayfa Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayfa-Regular.otf",
-    "family": "TifinaghKabawTayfaRegular"
-  },
-  {
-    "name": "TifinaghKabaw Tayri Regular(1)",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayri-Regular(1).otf",
-    "family": "TifinaghKabawTayriRegular(1)"
+    "family": "TifinaghKabawTayfaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayfa-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tayri Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayri-Regular.otf",
-    "family": "TifinaghKabawTayriRegular"
+    "family": "TifinaghKabawTayriRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayri-Regular.otf"
+    }
   },
   {
-    "name": "TifinaghKabaw Tbarun+1 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tbarun+1-Regular.otf",
-    "family": "TifinaghKabawTbarun+1Regular"
+    "name": "TifinaghKabaw Tayri Regular(1)",
+    "family": "TifinaghKabawTayriRegular(1)",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayri-Regular(1).otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tbarun Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tbarun-Regular.otf",
-    "family": "TifinaghKabawTbarunRegular"
+    "family": "TifinaghKabawTbarunRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tbarun-Regular.otf"
+    }
+  },
+  {
+    "name": "TifinaghKabaw Tbarun+1 Regular",
+    "family": "TifinaghKabawTbarun+1Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tbarun+1-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tebress Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tebress-Regular.otf",
-    "family": "TifinaghKabawTebressRegular"
+    "family": "TifinaghKabawTebressRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tebress-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw TebressMcek Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TebressMcek-Regular.otf",
-    "family": "TifinaghKabawTebressMcekRegular"
+    "family": "TifinaghKabawTebressMcekRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TebressMcek-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Thaghat Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thaghat-Regular.otf",
-    "family": "TifinaghKabawThaghatRegular"
+    "family": "TifinaghKabawThaghatRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thaghat-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Thghath Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thghath-Regular.otf",
-    "family": "TifinaghKabawThghathRegular"
+    "family": "TifinaghKabawThghathRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thghath-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Thila Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thila-Regular.otf",
-    "family": "TifinaghKabawThilaRegular"
+    "family": "TifinaghKabawThilaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thila-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tihya Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tihya-Regular.otf",
-    "family": "TifinaghKabawTihyaRegular"
+    "family": "TifinaghKabawTihyaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tihya-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tikkrt Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tikkrt-Regular.otf",
-    "family": "TifinaghKabawTikkrtRegular"
+    "family": "TifinaghKabawTikkrtRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tikkrt-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tilelli Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tilelli-Regular.otf",
-    "family": "TifinaghKabawTilelliRegular"
+    "family": "TifinaghKabawTilelliRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tilelli-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw TilelliRaz Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TilelliRaz-Regular.otf",
-    "family": "TifinaghKabawTilelliRazRegular"
+    "family": "TifinaghKabawTilelliRazRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TilelliRaz-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw TimCmet Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TimCmet-Regular.otf",
-    "family": "TifinaghKabawTimCmetRegular"
+    "family": "TifinaghKabawTimCmetRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TimCmet-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw TimCmetafra Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TimCmetafra-Regular.otf",
-    "family": "TifinaghKabawTimCmetafraRegular"
+    "family": "TifinaghKabawTimCmetafraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TimCmetafra-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Timcmett Regular Z",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Timcmett-Regular Z.otf",
-    "family": "TifinaghKabawTimcmettRegularZ"
+    "family": "TifinaghKabawTimcmettRegularZ",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Timcmett-Regular Z.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tiniri Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tiniri-Regular.otf",
-    "family": "TifinaghKabawTiniriRegular"
+    "family": "TifinaghKabawTiniriRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tiniri-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tiranafus Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tiranafus-Regular.otf",
-    "family": "TifinaghKabawTiranafusRegular"
+    "family": "TifinaghKabawTiranafusRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tiranafus-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Tojan Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tojan-Regular.otf",
-    "family": "TifinaghKabawTojanRegular"
+    "family": "TifinaghKabawTojanRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tojan-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Turarat Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Turarat-Regular.otf",
-    "family": "TifinaghKabawTuraratRegular"
+    "family": "TifinaghKabawTuraratRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Turarat-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Turart Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Turart-Regular.otf",
-    "family": "TifinaghKabawTurartRegular"
+    "family": "TifinaghKabawTurartRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Turart-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw UL Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-UL-Regular.otf",
-    "family": "TifinaghKabawULRegular"
+    "family": "TifinaghKabawULRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-UL-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Ufas Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ufas-Regular.otf",
-    "family": "TifinaghKabawUfasRegular"
+    "family": "TifinaghKabawUfasRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ufas-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Wrwri Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Wrwri-Regular.otf",
-    "family": "TifinaghKabawWrwriRegular"
+    "family": "TifinaghKabawWrwriRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Wrwri-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw YliTifayuor Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-YliTifayuor-Regular.otf",
-    "family": "TifinaghKabawYliTifayuorRegular"
+    "family": "TifinaghKabawYliTifayuorRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-YliTifayuor-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Yosafkasm Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Yosafkasm-Regular.otf",
-    "family": "TifinaghKabawYosafkasmRegular"
+    "family": "TifinaghKabawYosafkasmRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Yosafkasm-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabaw Yugrta Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Yugrta-Regular.otf",
-    "family": "TifinaghKabawYugrtaRegular"
+    "family": "TifinaghKabawYugrtaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Yugrta-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabawn Mckaken Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabawn-Mckaken-Regular.otf",
-    "family": "TifinaghKabawnMckakenRegular"
+    "family": "TifinaghKabawnMckakenRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabawn-Mckaken-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKabawn MckakenNagh Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabawn-MckakenNagh-Regular.otf",
-    "family": "TifinaghKabawnMckakenNaghRegular"
+    "family": "TifinaghKabawnMckakenNaghRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKabawn-MckakenNagh-Regular.otf"
+    }
   },
   {
     "name": "TifinaghKbaw Taness Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKbaw-Taness-Regular.otf",
-    "family": "TifinaghKbawTanessRegular"
+    "family": "TifinaghKbawTanessRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/TifinaghKbaw-Taness-Regular.otf"
+    }
+  },
+  {
+    "name": "TifinaghRevueDeux",
+    "family": "TifinaghRevueDeux",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghRevueDeux.otf"
+    }
+  },
+  {
+    "name": "TifinaghRevueDeux Bold",
+    "family": "TifinaghRevueDeuxBold",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghRevueDeux-Bold.otf"
+    }
+  },
+  {
+    "name": "TifinaghRevueUn",
+    "family": "TifinaghRevueUn",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghRevueUn.otf"
+    }
+  },
+  {
+    "name": "TifinaghRevueUn Bold",
+    "family": "TifinaghRevueUnBold",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinaghRevueUn-Bold.otf"
+    }
   },
   {
     "name": "Tifinaghadlis 3+4 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghadlis-3+4-Regular.otf",
-    "family": "Tifinaghadlis3+4Regular"
+    "family": "Tifinaghadlis3+4Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghadlis-3+4-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghadlis 5+6 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghadlis-5+6-Regular.otf",
-    "family": "Tifinaghadlis5+6Regular"
+    "family": "Tifinaghadlis5+6Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghadlis-5+6-Regular.otf"
+    }
+  },
+  {
+    "name": "Tifinaghe Ircam Unicode",
+    "family": "TifinagheIrcamUnicode",
+    "formats": {
+      "ttf": "Fonts/IRCAM/Tifinaghe-Ircam_Unicode.ttf"
+    }
+  },
+  {
+    "name": "Tifinaghe IrcamUnicode Regular2",
+    "family": "TifinagheIrcamUnicodeRegular2",
+    "formats": {
+      "otf": "Fonts/Tifinaghe-IrcamUnicode-Regular2.otf"
+    }
+  },
+  {
+    "name": "Tifinaghe TawaltAmawal",
+    "family": "TifinagheTawaltAmawal",
+    "formats": {
+      "otf": "Fonts/Tawalt/Tifinaghe-TawaltAmawal.otf",
+      "ttf": "Fonts/Tawalt/Tifinaghe-TawaltAmawal.ttf"
+    }
+  },
+  {
+    "name": "Tifinaghe TawaltAmawalBold",
+    "family": "TifinagheTawaltAmawalBold",
+    "formats": {
+      "otf": "Fonts/Tawalt/Tifinaghe-TawaltAmawalBold.otf",
+      "ttf": "Fonts/Tawalt/Tifinaghe-TawaltAmawalBold.ttf"
+    }
+  },
+  {
+    "name": "Tifinaghe TawaltUnicode",
+    "family": "TifinagheTawaltUnicode",
+    "formats": {
+      "otf": "Fonts/Tawalt/Tifinaghe-TawaltUnicode.otf",
+      "ttf": "Fonts/Tawalt/Tifinaghe-TawaltUnicode.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAdar Regular",
+    "family": "TifinagheAdarRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAdar-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAdar-Regular.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAfraw Regular",
+    "family": "TifinagheAfrawRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAfraw-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAfraw-Regular.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAfrdis Regular",
+    "family": "TifinagheAfrdisRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAfrdis-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAfrdis-Regular.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAmkkuz Regular",
+    "family": "TifinagheAmkkuzRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAmkkuz-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAmkkuz-Regular.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAmnzu Regular",
+    "family": "TifinagheAmnzuRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAmnzu-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAmnzu-Regular.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAmsdag Regular",
+    "family": "TifinagheAmsdagRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAmsdag-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAmsdag-Regular.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAnagray Regular 0",
+    "family": "TifinagheAnagrayRegular0",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAnagray-Regular_0.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAnagray-Regular_0.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAnamyar Regular",
+    "family": "TifinagheAnamyarRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAnamyar-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAnamyar-Regular.ttf"
+    }
+  },
+  {
+    "name": "TifinagheAqurar Regular",
+    "family": "TifinagheAqurarRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheAqurar-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheAqurar-Regular.ttf"
+    }
+  },
+  {
+    "name": "TifinagheTanumi Regular",
+    "family": "TifinagheTanumiRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/TifinagheTanumi-Regular.OTF",
+      "ttf": "Fonts/IRCAM/TifinagheTanumi-Regular.ttf"
+    }
   },
   {
     "name": "Tifinaghinfusan Jadu Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Jadu-Regular.otf",
-    "family": "TifinaghinfusanJaduRegular"
+    "family": "TifinaghinfusanJaduRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Jadu-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusan Tandmira Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Tandmira-Regular.otf",
-    "family": "TifinaghinfusanTandmiraRegular"
+    "family": "TifinaghinfusanTandmiraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Tandmira-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusan Tmlushait Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Tmlushait-Regular.otf",
-    "family": "TifinaghinfusanTmlushaitRegular"
+    "family": "TifinaghinfusanTmlushaitRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Tmlushait-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Afgan Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Afgan-Regular.otf",
-    "family": "TifinaghinfusenAfganRegular"
+    "family": "TifinaghinfusenAfganRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Afgan-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen AfusDegwfu Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfu-Regular.otf",
-    "family": "TifinaghinfusenAfusDegwfuRegular"
+    "family": "TifinaghinfusenAfusDegwfuRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfu-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen AfusDegwfus 1 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfus 1-Regular.otf",
-    "family": "TifinaghinfusenAfusDegwfus1Regular"
+    "family": "TifinaghinfusenAfusDegwfus1Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfus 1-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen AfusDegwfus2 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfus2-Regular.otf",
-    "family": "TifinaghinfusenAfusDegwfus2Regular"
+    "family": "TifinaghinfusenAfusDegwfus2Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfus2-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Alqlat Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Alqlat-Regular.otf",
-    "family": "TifinaghinfusenAlqlatRegular"
+    "family": "TifinaghinfusenAlqlatRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Alqlat-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Awal Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Awal-Regular.otf",
-    "family": "TifinaghinfusenAwalRegular"
+    "family": "TifinaghinfusenAwalRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Awal-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen AwalZ Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalZ-Regular.otf",
-    "family": "TifinaghinfusenAwalZRegular"
+    "family": "TifinaghinfusenAwalZRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalZ-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Awalnagh Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Awalnagh-Regular.otf",
-    "family": "TifinaghinfusenAwalnaghRegular"
+    "family": "TifinaghinfusenAwalnaghRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Awalnagh-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen AwalnaghT Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalnaghT-Regular.otf",
-    "family": "TifinaghinfusenAwalnaghTRegular"
+    "family": "TifinaghinfusenAwalnaghTRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalnaghT-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen AwalnaghV Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalnaghV-Regular.otf",
-    "family": "TifinaghinfusenAwalnaghVRegular"
+    "family": "TifinaghinfusenAwalnaghVRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalnaghV-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Azru Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Azru-Regular.otf",
-    "family": "TifinaghinfusenAzruRegular"
+    "family": "TifinaghinfusenAzruRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Azru-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Fursta Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Fursta-Regular.otf",
-    "family": "TifinaghinfusenFurstaRegular"
+    "family": "TifinaghinfusenFurstaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Fursta-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Fursta1 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Fursta1-Regular.otf",
-    "family": "TifinaghinfusenFursta1Regular"
+    "family": "TifinaghinfusenFursta1Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Fursta1-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Itran Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Itran-Regular.otf",
-    "family": "TifinaghinfusenItranRegular"
+    "family": "TifinaghinfusenItranRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Itran-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Jaj Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Jaj-Regular.otf",
-    "family": "TifinaghinfusenJajRegular"
+    "family": "TifinaghinfusenJajRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Jaj-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen JajS Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-JajS-Regular.otf",
-    "family": "TifinaghinfusenJajSRegular"
+    "family": "TifinaghinfusenJajSRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-JajS-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Jmalbokar Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Jmalbokar-Regular.otf",
-    "family": "TifinaghinfusenJmalbokarRegular"
+    "family": "TifinaghinfusenJmalbokarRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Jmalbokar-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Lalut Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Lalut-Regular.otf",
-    "family": "TifinaghinfusenLalutRegular"
+    "family": "TifinaghinfusenLalutRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Lalut-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Lalutafra Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Lalutafra-Regular.otf",
-    "family": "TifinaghinfusenLalutafraRegular"
+    "family": "TifinaghinfusenLalutafraRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Lalutafra-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Tamngha Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Tamngha-Regular.otf",
-    "family": "TifinaghinfusenTamnghaRegular"
+    "family": "TifinaghinfusenTamnghaRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Tamngha-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Tmlushaitafr Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Tmlushaitafr-Regular.otf",
-    "family": "TifinaghinfusenTmlushaitafrRegular"
+    "family": "TifinaghinfusenTmlushaitafrRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Tmlushaitafr-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Y3qubshriha 4 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Y3qubshriha 4-Regular.otf",
-    "family": "TifinaghinfusenY3qubshriha4Regular"
+    "family": "TifinaghinfusenY3qubshriha4Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Y3qubshriha 4-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Y3qubshriha3 Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Y3qubshriha3-Regular.otf",
-    "family": "TifinaghinfusenY3qubshriha3Regular"
+    "family": "TifinaghinfusenY3qubshriha3Regular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Y3qubshriha3-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen Ya3qubshrih Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Ya3qubshrih-Regular.otf",
-    "family": "TifinaghinfusenYa3qubshrihRegular"
+    "family": "TifinaghinfusenYa3qubshrihRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Ya3qubshrih-Regular.otf"
+    }
   },
   {
     "name": "Tifinaghinfusen wazn Regular",
-    "path": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-wazn-Regular.otf",
-    "family": "TifinaghinfusenwaznRegular"
+    "family": "TifinaghinfusenwaznRegular",
+    "formats": {
+      "otf": "Fonts/Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-wazn-Regular.otf"
+    }
+  },
+  {
+    "name": "Tinparis Regular",
+    "family": "TinparisRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/Tinparis-Regular.otf",
+      "ttf": "Fonts/IRCAM/Tinparis-Regular.ttf"
+    }
+  },
+  {
+    "name": "Tintfalatin Regular",
+    "family": "TintfalatinRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/Tintfalatin-Regular.otf",
+      "ttf": "Fonts/IRCAM/Tintfalatin-Regular.ttf"
+    }
+  },
+  {
+    "name": "TruetypewriterPolyglott mELa",
+    "family": "TruetypewriterPolyglottmELa",
+    "formats": {
+      "ttf": "Fonts/TruetypewriterPolyglott-mELa.ttf"
+    }
+  },
+  {
+    "name": "VideoGlau.sfd",
+    "family": "VideoGlau.sfd",
+    "formats": {
+      "ttf": "Fonts/VideoGlau.sfd.ttf"
+    }
+  },
+  {
+    "name": "VideoGlauBold.sfd",
+    "family": "VideoGlauBold.sfd",
+    "formats": {
+      "ttf": "Fonts/VideoGlauBold.sfd.ttf"
+    }
+  },
+  {
+    "name": "YugurtenACEBHapax",
+    "family": "YugurtenACEBHapax",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/YugurtenACEBHapax.ttf"
+    }
+  },
+  {
+    "name": "agrawlan",
+    "family": "agrawlan",
+    "formats": {
+      "ttf": "Fonts/IRCAM/agrawlan.ttf"
+    }
+  },
+  {
+    "name": "amanar",
+    "family": "amanar",
+    "formats": {
+      "ttf": "Fonts/IRCAM/amanar.ttf"
+    }
+  },
+  {
+    "name": "anaruz",
+    "family": "anaruz",
+    "formats": {
+      "ttf": "Fonts/IRCAM/anaruz.ttf"
+    }
+  },
+  {
+    "name": "anaruz sin",
+    "family": "anaruzsin",
+    "formats": {
+      "ttf": "Fonts/IRCAM/anaruz_sin.ttf"
+    }
+  },
+  {
+    "name": "anaviz",
+    "family": "anaviz",
+    "formats": {
+      "ttf": "Fonts/IRCAM/anaviz.ttf"
+    }
+  },
+  {
+    "name": "anbraz",
+    "family": "anbraz",
+    "formats": {
+      "ttf": "Fonts/IRCAM/anbraz.ttf"
+    }
+  },
+  {
+    "name": "azmznozro",
+    "family": "azmznozro",
+    "formats": {
+      "ttf": "Fonts/IRCAM/azmznozro.ttf"
+    }
+  },
+  {
+    "name": "cactus",
+    "family": "cactus",
+    "formats": {
+      "ttf": "Fonts/IRCAM/cactus.ttf"
+    }
+  },
+  {
+    "name": "caligraphie",
+    "family": "caligraphie",
+    "formats": {
+      "ttf": "Fonts/IRCAM/caligraphie.ttf"
+    }
+  },
+  {
+    "name": "coupure",
+    "family": "coupure",
+    "formats": {
+      "ttf": "Fonts/IRCAM/coupure.ttf"
+    }
+  },
+  {
+    "name": "damase v.2",
+    "family": "damasev.2",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/damase_v.2.ttf"
+    }
+  },
+  {
+    "name": "ebrima",
+    "family": "ebrima",
+    "formats": {
+      "ttf": "Fonts/IRCAM/ebrima.ttf"
+    }
+  },
+  {
+    "name": "ebrima bold",
+    "family": "ebrimabold",
+    "formats": {
+      "ttf": "Fonts/IRCAM/ebrima_bold.ttf"
+    }
+  },
+  {
+    "name": "ebrimabd",
+    "family": "ebrimabd",
+    "formats": {
+      "ttf": "Fonts/IRCAM/ebrimabd.ttf"
+    }
+  },
+  {
+    "name": "fedratifinagh",
+    "family": "fedratifinagh",
+    "formats": {
+      "otf": "Fonts/fedratifinagh.otf",
+      "ttf": "Fonts/fedratifinagh.ttf"
+    }
+  },
+  {
+    "name": "ferforge",
+    "family": "ferforge",
+    "formats": {
+      "ttf": "Fonts/IRCAM/ferforge.ttf"
+    }
+  },
+  {
+    "name": "font A",
+    "family": "fontA",
+    "formats": {
+      "ttf": "Fonts/IRCAM/font_A.ttf"
+    }
+  },
+  {
+    "name": "font B",
+    "family": "fontB",
+    "formats": {
+      "ttf": "Fonts/IRCAM/font_B.ttf"
+    }
+  },
+  {
+    "name": "goute",
+    "family": "goute",
+    "formats": {
+      "ttf": "Fonts/IRCAM/goute.ttf"
+    }
+  },
+  {
+    "name": "hapaxber 6.1",
+    "family": "hapaxber6.1",
+    "formats": {
+      "ttf": "Fonts/Other Tifinagh Variants/hapaxber-6.1.ttf"
+    }
+  },
+  {
+    "name": "hapaxber.ttf",
+    "family": "hapaxber.ttf",
+    "formats": {
+      "otf": "Fonts/Other Tifinagh Variants/hapaxber.ttf.otf"
+    }
+  },
+  {
+    "name": "inknign",
+    "family": "inknign",
+    "formats": {
+      "ttf": "Fonts/IRCAM/inknign.ttf"
+    }
+  },
+  {
+    "name": "izriri",
+    "family": "izriri",
+    "formats": {
+      "ttf": "Fonts/IRCAM/izriri.ttf"
+    }
+  },
+  {
+    "name": "maghribi",
+    "family": "maghribi",
+    "formats": {
+      "ttf": "Fonts/IRCAM/maghribi.ttf"
+    }
+  },
+  {
+    "name": "pointu",
+    "family": "pointu",
+    "formats": {
+      "ttf": "Fonts/IRCAM/pointu.ttf"
+    }
+  },
+  {
+    "name": "tahoma",
+    "family": "tahoma",
+    "formats": {
+      "ttf": "Fonts/tahoma.ttf"
+    }
+  },
+  {
+    "name": "tidfi",
+    "family": "tidfi",
+    "formats": {
+      "ttf": "Fonts/IRCAM/tidfi.ttf"
+    }
+  },
+  {
+    "name": "tifi",
+    "family": "tifi",
+    "formats": {
+      "ttf": "Fonts/tifi.ttf"
+    }
+  },
+  {
+    "name": "tifilit Regular",
+    "family": "tifilitRegular",
+    "formats": {
+      "otf": "Fonts/IRCAM/tifilit-Regular.otf",
+      "ttf": "Fonts/IRCAM/tifilit-Regular.ttf"
+    }
+  },
+  {
+    "name": "tifinagh abudrar normal web",
+    "family": "tifinaghabudrarnormalweb",
+    "formats": {
+      "ttf": "Fonts/tifinagh abudrar normal web.ttf"
+    }
+  },
+  {
+    "name": "tinmlt",
+    "family": "tinmlt",
+    "formats": {
+      "ttf": "Fonts/IRCAM/tinmlt.ttf"
+    }
+  },
+  {
+    "name": "tinmlt sin",
+    "family": "tinmltsin",
+    "formats": {
+      "ttf": "Fonts/IRCAM/tinmlt_sin.ttf"
+    }
+  },
+  {
+    "name": "totem",
+    "family": "totem",
+    "formats": {
+      "ttf": "Fonts/IRCAM/totem.ttf"
+    }
   }
 ]
