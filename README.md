@@ -1,17 +1,52 @@
-# tifinagh_fonts_viewer
+# ⵜⵉⴼⵉⵏⴰⵖ - Tifinagh Fonts Viewer
 
-A new Flutter project.
+A premium, offline-first Flutter application designed to explore and preview Tifinagh fonts with a **Moroccan Luxury** aesthetic.
 
-## Getting Started
+![Tifinagh Fonts Viewer](https://raw.githubusercontent.com/phaylali/Tifinagh-Fonts-Viewer/main/assets/banner.png)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Moroccan Luxury Design**: A high-end interface featuring Gold, Glassmorphism, and Pure AMOLED themes.
+- **Font Discovery**: Instant access to over 350+ unique Tifinagh fonts.
+- **Real-time Preview**: Type any text to see it rendered across all fonts instantly.
+- **True AMOLED Mode**: A pure black (`#000000`) theme optimized for OLED screens with zero elevation and high-contrast gold accents.
+- **Dual Formats**: Supports both **OTF** and **TTF** formats with direct links to source files.
+- **Offline-First**: All fonts are bundled locally for lightning-fast performance without data tracking.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🎨 Themes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Space mode**: Professional pure black AMOLED experience with sharp gold borders.
+- **Moon mode**: Modern dark grey theme for a soft, premium feel.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (latest stable version)
+- Android Studio / VS Code
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/phaylali/Tifinagh-Fonts-Viewer.git
+   ```
+2. Get dependencies:
+   ```bash
+   flutter pub get
+   ```
+3. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## 🛠️ Built With
+
+- **Flutter** - UI Framework
+- **Riverpod** - State Management
+- **GoRouter** - Navigation
+- **Cinzel & Source Sans 3** - Typography
+
+## 📜 License
+
+This project is specialized for Tifinagh heritage preservation. See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for data handling details.

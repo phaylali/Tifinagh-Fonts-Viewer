@@ -83,6 +83,20 @@ class AppThemes {
       labelStyle: const TextStyle(color: AppColors.gold),
       hintStyle: const TextStyle(color: Colors.white24),
     ),
+    dialogTheme: DialogThemeData(
+      backgroundColor: AppColors.spaceSurface,
+      elevation: 0,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(12),
+        side: const BorderSide(color: AppColors.gold, width: 1.0),
+      ),
+      titleTextStyle: GoogleFonts.cinzel(
+        color: AppColors.gold,
+        fontSize: 20,
+        fontWeight: FontWeight.bold,
+      ),
+      contentTextStyle: GoogleFonts.sourceSans3(color: Colors.white70),
+    ),
     appBarTheme: const AppBarTheme(
       backgroundColor: Colors.transparent,
       elevation: 0,
@@ -150,6 +164,20 @@ class AppThemes {
       ),
       labelStyle: const TextStyle(color: AppColors.gold),
       hintStyle: const TextStyle(color: Colors.white24),
+    ),
+    dialogTheme: DialogThemeData(
+      backgroundColor: AppColors.moonSurface,
+      elevation: 0,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(12),
+        side: const BorderSide(color: AppColors.gold, width: 1.0),
+      ),
+      titleTextStyle: GoogleFonts.cinzel(
+        color: AppColors.gold,
+        fontSize: 20,
+        fontWeight: FontWeight.bold,
+      ),
+      contentTextStyle: GoogleFonts.sourceSans3(color: Colors.white70),
     ),
     appBarTheme: const AppBarTheme(
       backgroundColor: Colors.transparent,

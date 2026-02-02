@@ -82,18 +82,10 @@ class AppDrawer extends ConsumerWidget {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
-        backgroundColor: AppColors.spaceSurface,
         title: const Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Text(
-              'TIFINAGH FONTS VIEWER',
-              style: TextStyle(
-                color: AppColors.gold,
-                fontWeight: FontWeight.bold,
-                fontSize: 18,
-              ),
-            ),
+            Text('TIFINAGH FONTS VIEWER'),
             SizedBox(height: 8),
             FadingGoldDivider(horizontalMargin: 0, verticalMargin: 0),
           ],
@@ -132,18 +124,10 @@ class AppDrawer extends ConsumerWidget {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
-        backgroundColor: AppColors.spaceSurface,
         title: const Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Text(
-              'Privacy Policy',
-              style: TextStyle(
-                color: AppColors.gold,
-                fontWeight: FontWeight.bold,
-                fontSize: 18,
-              ),
-            ),
+            Text('Privacy Policy'),
             SizedBox(height: 8),
             FadingGoldDivider(horizontalMargin: 0, verticalMargin: 0),
           ],

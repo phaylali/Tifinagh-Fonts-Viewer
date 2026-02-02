@@ -46,7 +46,7 @@ class HomePage extends ConsumerWidget {
                 itemBuilder: (context, index) {
                   return FontCard(
                     font: filteredFonts[index],
-                    previewText: previewText.isEmpty ? 'ⵜⵉⴼⵉⵏⴰⵖ' : previewText,
+                    previewText: previewText.isEmpty ? 'ⴰⵎⴰⵣⵉⴳⵀ' : previewText,
                   );
                 },
               ),
@@ -100,7 +100,7 @@ class HomePage extends ConsumerWidget {
           TextField(
             style: const TextStyle(color: AppColors.gold, fontSize: 18),
             decoration: InputDecoration(
-              hintText: 'Preview text (e.g. ⵜⵉⴼⵉⵏⴰⵖ)',
+              hintText: 'Preview text (e.g. ⴰⵎⴰⵣⵉⴳⵀ)',
               hintStyle: const TextStyle(color: Colors.white24),
               prefixIcon: const Icon(Icons.text_fields, color: AppColors.gold),
               filled: true,
