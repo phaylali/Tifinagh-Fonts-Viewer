@@ -9,12 +9,10 @@ class FontCard extends StatelessWidget {
 
   const FontCard({super.key, required this.font, required this.previewText});
 
-  Future<void> _launchGitHub() async {
-    // Assuming the fonts are from a specific repository
-    // We can extract the folder structure from the path
-    final relativePath = font.path.replaceAll('Fonts/', '');
+  Future<void> _launchGitHub(String path) async {
+    final relativePath = path.replaceAll('\\', '/');
     final url = Uri.parse(
-      'https://github.com/phaylali/Tifinagh-Fonts-Viewer/blob/main/Fonts/$relativePath',
+      'https://github.com/phaylali/Tifinagh-Fonts-Viewer/blob/main/$relativePath',
     );
     if (!await launchUrl(url)) {
       throw Exception('Could not launch $url');
@@ -24,60 +22,79 @@ class FontCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-      color: Theme.of(context).colorScheme.surface,
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(12),
-        side: const BorderSide(color: AppColors.gold, width: 0.5),
-      ),
-      child: InkWell(
-        onTap: _launchGitHub,
-        borderRadius: BorderRadius.circular(12),
-        child: Padding(
-          padding: const EdgeInsets.all(16.0),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Expanded(
-                    child: Text(
-                      font.name,
-                      style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                        color: AppColors.gold,
-                        fontWeight: FontWeight.bold,
-                        letterSpacing: 1.2,
-                      ),
+      child: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Expanded(
+                  child: Text(
+                    font.name,
+                    style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                      color: AppColors.gold,
+                      fontWeight: FontWeight.bold,
+                      letterSpacing: 1.2,
                     ),
                   ),
-                  const Icon(
-                    Icons.open_in_new,
-                    color: AppColors.gold,
-                    size: 16,
-                  ),
-                ],
+                ),
+                Row(
+                  children: font.formats.entries.map((entry) {
+                    return Padding(
+                      padding: const EdgeInsets.only(left: 8.0),
+                      child: _buildFormatButton(
+                        context,
+                        entry.key,
+                        entry.value,
+                      ),
+                    );
+                  }).toList(),
+                ),
+              ],
+            ),
+            const SizedBox(height: 12),
+            Container(
+              height: 0.5,
+              width: double.infinity,
+              decoration: const BoxDecoration(
+                gradient: AppColors.goldFadeGradient,
               ),
-              const SizedBox(height: 12),
-              Container(
-                height: 0.5,
-                width: double.infinity,
-                decoration: const BoxDecoration(
-                  gradient: AppColors.goldFadeGradient,
+            ),
+            const SizedBox(height: 16),
+            Center(
+              child: Text(
+                previewText,
+                style: TextStyle(
+                  fontFamily: font.family,
+                  fontSize: 28,
+                  color: Colors.white,
                 ),
               ),
-              const SizedBox(height: 16),
-              Center(
-                child: Text(
-                  previewText,
-                  style: TextStyle(
-                    fontFamily: font.family,
-                    fontSize: 28,
-                    color: Colors.white,
-                  ),
-                ),
-              ),
-            ],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildFormatButton(BuildContext context, String ext, String path) {
+    return InkWell(
+      onTap: () => _launchGitHub(path),
+      borderRadius: BorderRadius.circular(4),
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+        decoration: BoxDecoration(
+          border: Border.all(color: AppColors.gold, width: 0.5),
+          borderRadius: BorderRadius.circular(4),
+        ),
+        child: Text(
+          ext.toUpperCase(),
+          style: const TextStyle(
+            color: AppColors.gold,
+            fontSize: 10,
+            fontWeight: FontWeight.bold,
           ),
         ),
       ),

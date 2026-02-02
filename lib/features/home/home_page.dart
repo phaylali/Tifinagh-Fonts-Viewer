@@ -69,11 +69,9 @@ class HomePage extends ConsumerWidget {
   Widget _buildSearchAndPreview(BuildContext context, WidgetRef ref) {
     return Container(
       padding: const EdgeInsets.all(16.0),
-      decoration: BoxDecoration(
-        color: Theme.of(context).colorScheme.surface,
-        border: const Border(
-          bottom: BorderSide(color: AppColors.gold, width: 0.5),
-        ),
+      decoration: const BoxDecoration(
+        color: Colors.transparent,
+        border: Border(bottom: BorderSide(color: AppColors.gold, width: 0.3)),
       ),
       child: Column(
         children: [
@@ -84,10 +82,14 @@ class HomePage extends ConsumerWidget {
               hintStyle: const TextStyle(color: Colors.white38),
               prefixIcon: const Icon(Icons.search, color: AppColors.gold),
               filled: true,
-              fillColor: Colors.black26,
+              fillColor: Colors.white.withAlpha(10),
               border: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(12),
-                borderSide: BorderSide.none,
+                borderSide: const BorderSide(color: AppColors.gold, width: 0.2),
+              ),
+              enabledBorder: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(12),
+                borderSide: const BorderSide(color: Colors.white10, width: 0.2),
               ),
             ),
             onChanged: (value) {
@@ -102,14 +104,14 @@ class HomePage extends ConsumerWidget {
               hintStyle: const TextStyle(color: Colors.white24),
               prefixIcon: const Icon(Icons.text_fields, color: AppColors.gold),
               filled: true,
-              fillColor: Colors.black26,
+              fillColor: Colors.black,
               border: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(12),
                 borderSide: const BorderSide(color: AppColors.gold, width: 0.5),
               ),
               enabledBorder: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(12),
-                borderSide: const BorderSide(color: AppColors.gold, width: 0.3),
+                borderSide: const BorderSide(color: AppColors.gold, width: 0.2),
               ),
             ),
             onChanged: (value) {

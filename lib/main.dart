@@ -4,9 +4,7 @@ import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:tifinagh_fonts_viewer/core/providers.dart';
 import 'package:tifinagh_fonts_viewer/core/theme.dart';
-import 'package:tifinagh_fonts_viewer/features/about/about_page.dart';
 import 'package:tifinagh_fonts_viewer/features/home/home_page.dart';
-import 'package:tifinagh_fonts_viewer/features/privacy/privacy_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -22,11 +20,7 @@ void main() async {
 
 final _router = GoRouter(
   initialLocation: '/',
-  routes: [
-    GoRoute(path: '/', builder: (context, state) => const HomePage()),
-    GoRoute(path: '/about', builder: (context, state) => const AboutPage()),
-    GoRoute(path: '/privacy', builder: (context, state) => const PrivacyPage()),
-  ],
+  routes: [GoRoute(path: '/', builder: (context, state) => const HomePage())],
 );
 
 class TifinaghFontsApp extends ConsumerWidget {
