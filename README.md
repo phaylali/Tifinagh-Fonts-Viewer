@@ -1,6 +1,6 @@
 # ⵜⵉⴼⵉⵏⴰⵖ - Tifinagh Fonts Viewer
 
-A premium, offline-first Flutter application designed to explore and preview Tifinagh fonts with a **Moroccan Luxury** aesthetic.
+✨ A premium, offline-first 📶 Flutter 💙 application designed to explore 🔍 and preview Tifinagh fonts ⵣ with a **Moroccan Luxury** aesthetic 🇲🇦💎.
 
 ![Tifinagh Fonts Viewer](https://raw.githubusercontent.com/phaylali/Tifinagh-Fonts-Viewer/main/assets/banner.png)
 
