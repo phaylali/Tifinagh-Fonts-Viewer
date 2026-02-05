@@ -117,7 +117,7 @@
     },
     {
       "name": "flutter_riverpod",
-      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/flutter_riverpod-3.2.0",
+      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/flutter_riverpod-3.2.1",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -147,19 +147,19 @@
     },
     {
       "name": "go_router",
-      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/go_router-17.0.1",
+      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/go_router-17.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "google_fonts",
-      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/google_fonts-8.0.0",
+      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/google_fonts-8.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "hooks",
-      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/hooks-1.0.0",
+      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/hooks-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -333,7 +333,7 @@
     },
     {
       "name": "riverpod",
-      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/riverpod-3.2.0",
+      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/riverpod-3.2.1",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -423,7 +423,7 @@
     },
     {
       "name": "source_span",
-      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/source_span-1.10.1",
+      "rootUri": "file:///home/phaylali/.pub-cache/hosted/pub.dev/source_span-1.10.2",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -591,8 +591,8 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.12.0-35.0.dev",
+  "generatorVersion": "3.12.0-113.0.dev",
   "flutterRoot": "file:///home/phaylali/flutter",
-  "flutterVersion": "3.41.0-1.0.pre-141",
+  "flutterVersion": "3.41.0-1.0.pre-465",
   "pubCache": "file:///home/phaylali/.pub-cache"
 }
